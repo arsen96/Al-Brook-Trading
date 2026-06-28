@@ -1,4 +1,6 @@
 
+![[Pasted image 20260628095404.png]]
+![[Pasted image 20260628095424.png]]
 ![[Pasted image 20260619221752.png]]
 ![[Pasted image 20260620124039.png]]
 
@@ -18,3 +20,7 @@ Ceci est un exemple pour montrer  que je peux acheter au breakout et que je peux
 ![[Pasted image 20260620140708.png]]
 ![[Pasted Image 20260625180743_212.png]]
 ![[Pasted image 20260627161446.png]]
+![[Pasted image 20260628104334.png]]
+![[Pasted image 20260628174627.png]]
+![[Pasted image 20260628202545.png]]
+![[Pasted image 20260628203903.png]]

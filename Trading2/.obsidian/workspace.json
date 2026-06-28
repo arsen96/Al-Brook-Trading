@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "journal/trades/AL trading/Trading Price actions/Trading Range.md",
+                "file": "journal/trades/AL trading/Trading Price actions/Failed Breakout.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Trading Range"
+              "title": "Failed Breakout"
             }
           },
           {
@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "journal/trades/AL trading/Trading Price actions/Signal Bars/Moving average.md",
+                "file": "journal/trades/AL trading/Trading Price actions/Signal Bars/Inside Bar, IOI.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Moving average"
+              "title": "Inside Bar, IOI"
             }
           },
           {
@@ -41,12 +41,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "journal/trades/AL trading/Trading Price actions/Spike and channel.md",
+                "file": "journal/trades/AL trading/Trading Price actions/Climaxes.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Spike and channel"
+              "title": "Climaxes"
             }
           },
           {
@@ -55,12 +55,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "journal/trades/AL trading/Trading Price actions/Spike and channel.md",
+                "file": "journal/trades/AL trading/Trading Price actions/Signal Bars/DB, DT.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Spike and channel"
+              "title": "DB, DT"
             }
           }
         ],
@@ -241,45 +241,45 @@
   },
   "active": "e4a882f101ec1b36",
   "lastOpenFiles": [
-    "Assets/Attachments/Pasted image 20260627170035.png",
-    "journal/trades/AL trading/Trading Price actions/Signal Bars/Moving average.md",
-    "Assets/Attachments/Pasted image 20260627170023.png",
-    "Excalidraw/Drawing 2026-06-04 10.31.42.excalidraw.restored.md",
-    "journal/trades/AL trading/Trading Price actions/Spike and channel.md",
-    "Assets/Attachments/Pasted image 20260627165750.png",
-    "Assets/Attachments/Pasted Image 20260627165230_189.png",
-    "journal/trades/AL trading/Trading Price actions/Signal Bars/Wedges.md",
-    "Assets/Attachments/Pasted image 20260627165048.png",
-    "journal/trades/AL trading/Trading Price actions/Signal Bars/Second entry.md",
-    "Assets/Attachments/Pasted image 20260627163224.png",
-    "Assets/Attachments/Pasted image 20260627163206.png",
-    "Assets/Attachments/Pasted image 20260627163200.png",
-    "journal/trades/AL trading/Trading Price actions/Signal Bars/Follow Through.md",
-    "Assets/Attachments/Pasted image 20260627163151.png",
-    "Assets/Attachments/Pasted Image 20260627162512_349.png",
-    "journal/trades/AL trading/Trading Price actions/Trend Lines And Channel.md",
-    "Assets/Attachments/Pasted image 20260627161454.png",
-    "journal/trades/AL trading/Trading Price actions/Always in long.md",
-    "journal/trades/AL trading/Trading Price actions/Measured Move.md",
-    "journal/trades/AL trading/Trading Price actions/Trading Range.md",
-    "journal/trades/AL trading/Trading Price actions/Failed Breakout.md",
-    "journal/trades/AL trading/Trading Price actions/Climaxes.md",
-    "journal/trades/AL trading/Trading Price actions/Signal Bars/Two-Bar Reversals.md",
+    "Assets/Attachments/Pasted image 20260628204630.png",
     "journal/trades/AL trading/Trading Price actions/Signal Bars/Inside Bar, IOI.md",
+    "Assets/Attachments/Pasted image 20260628204619.png",
+    "journal/trades/AL trading/Trading Price actions/Buying-Selling pressure.md",
+    "journal/trades/AL trading/Trading Price actions/Spike and channel.md",
+    "journal/trades/AL trading/Trading Price actions/Trading Range.md",
+    "journal/trades/AL trading/Trading Price actions/Trend Lines And Channel.md",
+    "Assets/Attachments/Pasted image 20260628204539.png",
+    "journal/trades/AL trading/Trading Price actions/Measured Move.md",
+    "Assets/Attachments/Pasted image 20260628204527.png",
+    "Assets/Attachments/Pasted image 20260628204517.png",
+    "Assets/Attachments/Pasted image 20260628204509.png",
+    "journal/trades/AL trading/Trading Price actions/Climaxes.md",
+    "Assets/Attachments/Pasted image 20260628204500.png",
+    "journal/trades/AL trading/Trading Price actions/Signal Bars/Second entry.md",
+    "Assets/Attachments/Pasted image 20260628204447.png",
+    "Excalidraw/Drawing 2026-06-04 10.31.42.excalidraw.restored.md",
+    "journal/trades/AL trading/Trading Price actions/Always in long.md",
     "journal/trades/AL trading/Trading Price actions/Signal Bars/DB, DT.md",
+    "journal/trades/AL trading/Trading Price actions/Signal Bars/Wedges.md",
+    "Assets/Attachments/Pasted image 20260628203903.png",
+    "journal/trades/AL trading/Trading Price actions/Signal Bars/Two-Bar Reversals.md",
+    "Assets/Attachments/Pasted image 20260628203855.png",
+    "Assets/Attachments/Pasted image 20260628202606.png",
+    "journal/trades/AL trading/Trading Price actions/Failed Breakout.md",
+    "journal/trades/AL trading/Trading Price actions/Signal Bars/Moving average.md",
+    "journal/trades/AL trading/Trading Price actions/Signal Bars/Outside Bar.md",
+    "journal/trades/AL trading/Trading Price actions/Signal Bars/Triangle.md",
+    "journal/trades/AL trading/Trading Price actions/Psychologie.md",
+    "Excalidraw/Drawing 2026-06-04 10.31.42.excalidraw.md",
+    "journal/trades/AL trading/Trading Price actions/Signal Bars/Follow Through.md",
     "journal/trades/AL trading/Trading Price actions/Signal Bars/Bull Signal Bars.md",
     "journal/trades/AL trading/Trading Price actions/Signal Bars/Bear Signal Bars.md",
-    "journal/trades/AL trading/Trading Price actions/Signal Bars/Outside Bar.md",
-    "journal/trades/AL trading/Trading Price actions/Buying-Selling pressure.md",
-    "Excalidraw/Drawing 2026-06-04 10.31.42.excalidraw.md",
     "journal/trades/AL trading/Trading Price actions/Climaxes",
     "journal/trades/AL trading/Trading Price actions/Signal Bars.md",
     "journal/trades/AL trading/Trading Price actions/Follow through.md",
     "journal/trades/AL trading/Trading Price actions/Signal Bars/Bear Signal Bars",
     "journal/trades/AL trading/Trading Price actions/Signal Bars",
     "journal/trades/AL trading/Trading Price actions/Trading Range/Failed Breakout.md",
-    "journal/trades/AL trading/Trading Price actions/Trading Range/Range Entries.md",
-    "journal/trades/AL trading/Trading Price actions/Trading Range/Double Top.md",
     "journal/trades/AL trading/Trading Price actions/Climaxes",
     "journal/trades/AL trading/Trading Price actions/Trading Range",
     "journal/trades/AL trading/Trading Price actions/Continuation",
