@@ -17,3 +17,18 @@
 ![[Pasted image 20260628204517.png]]
 ![[Pasted image 20260630185146.png]]![[Pasted image 20260630193549.png]]
 ![[Pasted image 20260630200918.png]]
+
+# TRADING RANGES
+![[Pasted image 20260701184148.png]]
+
+![[Pasted image 20260701190059.png]]
+![[Pasted image 20260701193233.png]]
+
+![[Pasted image 20260701211647.png]]
+![[Pasted image 20260701212717.png]]
+
+![[Pasted image 20260702183739.png]]
+![[Pasted image 20260702183417.png]]
+![[Pasted image 20260702184501.png]]
+![[Pasted image 20260702193424.png]]
+![[Pasted image 20260702195255.png]]
