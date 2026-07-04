@@ -33,3 +33,6 @@ Pour le bar 10. Meme si ici c plus renversal que DB
 
 ![[Pasted image 20260702193424.png]]
 ![[Pasted image 20260702195255.png]]
+![[Pasted image 20260704102722.png]]
+![[Pasted image 20260704105816.png]]
+![[Pasted image 20260704114007.png]]
