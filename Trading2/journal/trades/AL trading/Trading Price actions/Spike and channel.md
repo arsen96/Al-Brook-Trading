@@ -88,3 +88,9 @@ Après la cassure du Channel.
 
 ![[Pasted image 20260702193424.png]]
 ![[Pasted image 20260702195255.png]]
+![[Pasted image 20260704151508.png]]
+![[Pasted image 20260704171511.png]]
+![[Pasted image 20260704172054.png]]
+![[Pasted image 20260704173752.png]]
+
+![[Pasted image 20260705200231.png]]

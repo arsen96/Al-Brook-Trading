@@ -41,3 +41,5 @@ Ne pas acheter ou vendre une Outside Bar uniquement parce qu'elle est une Outsid
 ![[Pasted image 20260630204229.png]]
 ![[Pasted image 20260704093102.png]]
 ![[Pasted image 20260704094054.png]]
+![[Pasted image 20260704180620.png]]
+![[Pasted image 20260706184312.png]]
