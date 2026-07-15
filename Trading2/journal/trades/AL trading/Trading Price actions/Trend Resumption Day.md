@@ -76,3 +76,4 @@ Pendant le Trading Range.
 
 ![[Pasted image 20260706192051.png]]
 ![[Pasted image 20260706194922.png]]
+![[Pasted image 20260706200659.png]]

@@ -1,6 +1,5 @@
 
 ![[Pasted image 20260622173652.png]]
-
 ![[Pasted image 20260622222236.png]]
 ![[Pasted image 20260622215645.png]]
 Pour le bar 10. Meme si ici c plus renversal que DB
