@@ -13,26 +13,26 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "journal/live/EURUSD/2026-07/20.md",
+                "file": "journal/live/GER40/2026-07/07.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "20"
+              "title": "07"
             }
           },
           {
-            "id": "7686fae4fea35aec",
+            "id": "6fb742bd9ac165bb",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "journal/live/EURUSD/2026-07/17.md",
+                "file": "journal/live/GER40/2026-07/07.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "17"
+              "title": "07"
             }
           }
         ]
@@ -212,42 +212,44 @@
   },
   "active": "2a847505c6fc08b0",
   "lastOpenFiles": [
-    "Assets/Attachments/Pasted image 20260720153213.png",
+    "Assets/Attachments/Pasted image 20260727162738.png",
     "Excalidraw/Drawing 2026-06-04 10.31.42.excalidraw.restored.restored.md",
-    "Assets/Attachments/Pasted Image 20260720152315_670.png",
+    "Assets/Attachments/Pasted Image 20260727162550_196.png",
+    "journal/live/GER40/2026-07/Eviter trader.md",
+    "journal/live/GER40/2026-07/07.md",
+    "Assets/Attachments/Pasted image 20260727162347.png",
+    "journal/live/GER40/2026-07/03.md",
+    "Assets/Attachments/Pasted image 20260727162327.png",
+    "Assets/Attachments/Pasted Image 20260727161348_841.png",
+    "Assets/Attachments/Pasted Image 20260727154145_339.png",
+    "Assets/Attachments/Pasted image 20260727155644.png",
+    "Assets/Attachments/Pasted image 20260727155634.png",
+    "journal/live/GER40/2026-07/02.md",
+    "Assets/Attachments/Pasted image 20260727153734.png",
+    "Assets/Attachments/Pasted image 20260727153723.png",
+    "journal/live/GER40/2026-07/01.md",
+    "Assets/Attachments/Pasted image 20260727153713.png",
+    "journal/live/EURUSD/2026-07/03.md",
+    "journal/live/EURUSD/2026-07/10.md",
+    "journal/live/EURUSD/2026-07/23.md",
+    "journal/live/GER40/2026-07",
+    "journal/live/GER40",
+    "journal/live/EURUSD/2026-07/09.md",
+    "journal/live/EURUSD/2026-07/08.md",
+    "journal/live/EURUSD/2026-07/07.md",
+    "journal/live/EURUSD/2026-07/06.md",
+    "journal/live/EURUSD/2026-07/22.md",
+    "journal/live/EURUSD/2026-07/21.md",
     "journal/live/EURUSD/2026-07/20.md",
     "journal/live/EURUSD/2026-07/17.md",
-    "Assets/Attachments/Pasted image 20260720151905.png",
-    "Assets/Attachments/Pasted image 20260720151615.png",
-    "Assets/Attachments/Pasted image 20260720150727.png",
-    "Assets/Attachments/Pasted Image 20260720150255_782.png",
-    "Assets/Attachments/Pasted image 20260720144905.png",
-    "Assets/Attachments/Pasted Image 20260720144648_377.png",
-    "Assets/Attachments/Pasted image 20260720144625.png",
-    "Assets/Attachments/Pasted Image 20260720143603_511.png",
-    "journal/live/EURUSD/2026-07/15.md",
     "journal/live/EURUSD/2026-07/16.md",
-    "journal/live/EURUSD/2026-07/03.md",
-    "journal/live/EURUSD/2026-07/06.md",
-    "journal/live/EURUSD/2026-07/07.md",
-    "journal/live/EURUSD/2026-07/08.md",
-    "journal/live/EURUSD/2026-07/09.md",
-    "journal/live/EURUSD/2026-07/10.md",
+    "journal/live/EURUSD/2026-07/15.md",
     "journal/live/EURUSD/2026-07/13.md",
     "journal/live/EURUSD/2026-07/14.md",
-    "Assets/Attachments/Pasted image 20260720141740.png",
+    "journal/trades/AL trading/Trading Price actions/Signal Bars/Triangle.md",
+    "journal/trades/AL trading/Trading Price actions/Signal Bars/Second entry.md",
     "Excalidraw/Drawing 2026-06-04 10.31.42.excalidraw.restored.md",
     "Excalidraw/Drawing 2026-06-04 10.31.42.excalidraw.md",
-    "journal/trades/AL trading/Trading Price actions/Signal Bars/Second entry.md",
-    "journal/trades/AL trading/Trading Price actions/Signal Bars/Moving average.md",
-    "journal/trades/AL trading/Trading Price actions/Signal Bars/Wedges.md",
-    "journal/trades/AL trading/Trading Price actions/Signal Bars/Two-Bar Reversals.md",
-    "journal/trades/AL trading/Trading Price actions/Signal Bars/Triangle.md",
-    "journal/trades/AL trading/Trading Price actions/Signal Bars/Outside Bar.md",
-    "journal/trades/AL trading/Trading Price actions/Signal Bars/Inside Bar, IOI.md",
-    "journal/trades/AL trading/Trading Price actions/Signal Bars/Bull Signal Bars.md",
-    "journal/trades/AL trading/Trading Price actions/Signal Bars/Bear Signal Bars.md",
-    "journal/trades/AL trading/Trading Price actions/Always in long.md",
     "journal/live/EURUSD/2026-07/02",
     "journal/live/EURUSD/2026-07",
     "journal/live/EURUSD",
@@ -255,8 +257,6 @@
     "journal/trades/AL trading/Trading Price actions/Climaxes",
     "journal/trades/AL trading/Trading Price actions/Signal Bars/Bear Signal Bars",
     "journal/trades/AL trading/Trading Price actions/Signal Bars",
-    "journal/trades/AL trading/Trading Price actions/Climaxes",
-    "journal/trades/AL trading/Trading Price actions/Trading Range",
-    "journal/trades/AL trading/Trading Price actions/Continuation"
+    "journal/trades/AL trading/Trading Price actions/Climaxes"
   ]
 }
