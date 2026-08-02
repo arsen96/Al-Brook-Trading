@@ -11,12 +11,14 @@
             "id": "2a847505c6fc08b0",
             "type": "leaf",
             "state": {
-              "type": "excalidraw",
+              "type": "markdown",
               "state": {
-                "file": "Excalidraw/Drawing 2026-06-04 10.31.42.excalidraw.restored.restored.md"
+                "file": "journal/live/EURUSD/2026-07/28.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "excalidraw-icon",
-              "title": "Drawing 2026-06-04 10.31.42.excalidraw.restored.restored"
+              "icon": "lucide-file",
+              "title": "28"
             }
           },
           {
@@ -25,15 +27,44 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "journal/live/GER40/2026-07/17.md",
+                "file": "journal/live/GER40/2026-07/24.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "17"
+              "title": "24"
+            }
+          },
+          {
+            "id": "473c419fd241143c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "journal/live/EURUSD/2026-07/13.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "13"
+            }
+          },
+          {
+            "id": "fd12a478b4935f78",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "journal/live/EURUSD/2026-07/10.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "10"
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -53,7 +84,9 @@
               "type": "file-explorer",
               "state": {
                 "sortOrder": "alphabetical",
-                "autoReveal": false
+                "autoReveal": false,
+                "showSearch": false,
+                "searchQuery": ""
               },
               "icon": "lucide-folder-closed",
               "title": "Explorateur de fichiers"
@@ -208,44 +241,43 @@
       "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "2a847505c6fc08b0",
+  "active": "473c419fd241143c",
   "lastOpenFiles": [
-    "Assets/Attachments/Pasted Image 20260730084554_201.png",
-    "journal/live/GER40/2026-07/21.md",
-    "journal/live/GER40/2026-07/Eviter trader.md",
-    "Assets/Attachments/Pasted image 20260730084150.png",
-    "Assets/Attachments/Pasted image 20260730084144.png",
-    "journal/live/GER40/2026-07/20.md",
-    "Assets/Attachments/Pasted image 20260730084133.png",
+    "journal/live/EURUSD/2026-07/10.md",
+    "Assets/Attachments/Pasted image 20260802145902.png",
     "Excalidraw/Drawing 2026-06-04 10.31.42.excalidraw.restored.restored.md",
-    "Assets/Attachments/Pasted Image 20260730082911_945.png",
-    "Assets/Attachments/Pasted image 20260730082628.png",
-    "Assets/Attachments/Pasted Image 20260730081655_567.png",
-    "journal/live/EURUSD/2026-07/28.md",
-    "Assets/Attachments/Pasted image 20260729211515.png",
-    "Assets/Attachments/Pasted image 20260729211323.png",
-    "journal/live/GER40/2026-07/17.md",
-    "Assets/Attachments/Pasted Image 20260729205050_422.png",
-    "journal/live/GER40/2026-07/16.md",
-    "Assets/Attachments/Pasted image 20260729203302.png",
     "journal/live/EURUSD/2026-07/Eviter trader.md",
+    "Assets/Attachments/Pasted image 20260802144647.png",
+    "Assets/Attachments/Pasted image 20260802144631.png",
+    "Assets/Attachments/Pasted image 20260802143819.png",
+    "Assets/Attachments/Pasted image 20260802143755.png",
+    "journal/live/EURUSD/2026-07/09.md",
+    "journal/live/EURUSD/2026-07/13.md",
+    "journal/live/EURUSD/2026-07/08.md",
+    "Assets/Attachments/Pasted image 20260802120901.png",
+    "Assets/Attachments/Pasted image 20260802120420.png",
+    "Assets/Attachments/Pasted image 20260802120046.png",
+    "Assets/Attachments/Pasted image 20260802120041.png",
+    "Assets/Attachments/Pasted image 20260802120026.png",
+    "journal/live/EURUSD/2026-07/03.md",
+    "journal/live/EURUSD/2026-07/07.md",
+    "journal/live/EURUSD/2026-07/06.md",
+    "journal/trades/AL trading/Trading Price actions/Signal Bars/Two-Bar Reversals.md",
+    "journal/live/GER40/2026-07/Eviter trader.md",
+    "journal/live/GER40/2026-07/30.md",
+    "journal/live/GER40/2026-07/27.md",
+    "journal/live/GER40/2026-07/24.md",
+    "journal/live/GER40/2026-07/23.md",
+    "journal/live/EURUSD/2026-07/30.md",
+    "journal/live/GER40/2026-07/17.md",
+    "journal/live/EURUSD/2026-07/28.md",
+    "journal/live/GER40/2026-07/22.md",
+    "journal/live/GER40/2026-07/21.md",
+    "journal/live/GER40/2026-07/20.md",
+    "journal/live/GER40/2026-07/16.md",
     "journal/live/EURUSD/2026-07/27.md",
     "journal/live/GER40/2026-07/15.md",
     "journal/live/GER40/2026-07/14.md",
-    "journal/trades/AL trading/Trading Price actions/Signal Bars/Two-Bar Reversals.md",
-    "journal/trades/AL trading/Trading Price actions/Signal Bars/Triangle.md",
-    "journal/trades/AL trading/Trading Price actions/Signal Bars/Wedges.md",
-    "journal/trades/AL trading/Trading Price actions/Signal Bars/Second entry.md",
-    "journal/live/GER40/2026-07/13.md",
-    "journal/live/GER40/2026-07/10.md",
-    "journal/live/GER40/2026-07/01.md",
-    "journal/live/GER40/2026-07/02.md",
-    "journal/live/GER40/2026-07/03.md",
-    "journal/live/GER40/2026-07/07.md",
-    "journal/live/GER40/2026-07/08-09.md",
-    "journal/live/EURUSD/2026-07/24.md",
-    "journal/live/EURUSD/2026-07/03.md",
-    "journal/live/EURUSD/2026-07/10.md",
     "journal/live/GER40/2026-07",
     "journal/live/GER40",
     "journal/live/EURUSD/2026-07/02",
