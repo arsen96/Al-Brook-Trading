@@ -8,63 +8,20 @@
         "type": "tabs",
         "children": [
           {
-            "id": "2a847505c6fc08b0",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "journal/live/EURUSD/2026-07/28.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "28"
-            }
-          },
-          {
-            "id": "cf5372c474e2f5b4",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "journal/live/GER40/2026-07/24.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "24"
-            }
-          },
-          {
             "id": "473c419fd241143c",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "journal/live/EURUSD/2026-07/13.md",
+                "file": "journal/live avec replay/EURUSD/6 - 22 avril 2026.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "13"
-            }
-          },
-          {
-            "id": "fd12a478b4935f78",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "journal/live/EURUSD/2026-07/10.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "10"
+              "title": "6 - 22 avril 2026"
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -243,50 +200,51 @@
   },
   "active": "473c419fd241143c",
   "lastOpenFiles": [
-    "journal/live/EURUSD/2026-07/10.md",
-    "Assets/Attachments/Pasted image 20260802145902.png",
+    "journal/live avec replay/EURUSD/5 - 21 avril 2026.md",
+    "journal/live avec replay/EURUSD/6 - 22 avril 2026.md",
+    "Assets/Attachments/Pasted image 20260809184602.png",
     "Excalidraw/Drawing 2026-06-04 10.31.42.excalidraw.restored.restored.md",
-    "journal/live/EURUSD/2026-07/Eviter trader.md",
-    "Assets/Attachments/Pasted image 20260802144647.png",
-    "Assets/Attachments/Pasted image 20260802144631.png",
-    "Assets/Attachments/Pasted image 20260802143819.png",
-    "Assets/Attachments/Pasted image 20260802143755.png",
-    "journal/live/EURUSD/2026-07/09.md",
-    "journal/live/EURUSD/2026-07/13.md",
-    "journal/live/EURUSD/2026-07/08.md",
-    "Assets/Attachments/Pasted image 20260802120901.png",
-    "Assets/Attachments/Pasted image 20260802120420.png",
-    "Assets/Attachments/Pasted image 20260802120046.png",
-    "Assets/Attachments/Pasted image 20260802120041.png",
-    "Assets/Attachments/Pasted image 20260802120026.png",
-    "journal/live/EURUSD/2026-07/03.md",
-    "journal/live/EURUSD/2026-07/07.md",
-    "journal/live/EURUSD/2026-07/06.md",
-    "journal/trades/AL trading/Trading Price actions/Signal Bars/Two-Bar Reversals.md",
-    "journal/live/GER40/2026-07/Eviter trader.md",
-    "journal/live/GER40/2026-07/30.md",
-    "journal/live/GER40/2026-07/27.md",
-    "journal/live/GER40/2026-07/24.md",
-    "journal/live/GER40/2026-07/23.md",
-    "journal/live/EURUSD/2026-07/30.md",
-    "journal/live/GER40/2026-07/17.md",
-    "journal/live/EURUSD/2026-07/28.md",
-    "journal/live/GER40/2026-07/22.md",
-    "journal/live/GER40/2026-07/21.md",
-    "journal/live/GER40/2026-07/20.md",
-    "journal/live/GER40/2026-07/16.md",
-    "journal/live/EURUSD/2026-07/27.md",
-    "journal/live/GER40/2026-07/15.md",
-    "journal/live/GER40/2026-07/14.md",
-    "journal/live/GER40/2026-07",
-    "journal/live/GER40",
+    "Assets/Attachments/Pasted Image 20260809184450_918.png",
+    "Assets/Attachments/Pasted image 20260809184408.png",
+    "Assets/Attachments/Pasted Image 20260809184214_557.png",
+    "Assets/Attachments/Pasted image 20260809183840.png",
+    "Assets/Attachments/Pasted image 20260809183809.png",
+    "Assets/Attachments/Pasted Image 20260809183605_041.png",
+    "journal/live avec replay/EURUSD/1 - 16 avril 2026.md",
+    "journal/live avec replay/EURUSD/2 - 17 avril 2026.md",
+    "journal/live avec replay/EURUSD/3 - 19 avril 2026.md",
+    "journal/live avec replay/EURUSD/4 - 20 avril 2026.md",
+    "Assets/Attachments/Pasted image 20260809164625.png",
+    "Assets/Attachments/Pasted Image 20260809164520_758.png",
+    "Assets/Attachments/Pasted Image 20260809164445_910.png",
+    "Excalidraw/Drawing 2026-06-04 10.31.42.excalidraw.restored.md",
+    "journal/live sans replay/EURUSD/2026-07/Eviter trader.md",
+    "journal/live avec replay/EURUSD",
+    "journal/live avec replay",
+    "journal/live sans replay/EURUSD/2026-07/06.md",
+    "journal/live sans replay/EURUSD/2026-07/03.md",
+    "journal/live sans replay/EURUSD/2026-07/28.md",
+    "journal/live sans replay/EURUSD/2026-07/30.md",
+    "journal/live sans replay/EURUSD/2026-07/27.md",
+    "journal/live sans replay/EURUSD/2026-07/24.md",
+    "journal/live sans replay/EURUSD/2026-07/22.md",
+    "journal/live sans replay/EURUSD/2026-07/21.md",
+    "journal/live sans replay/EURUSD/2026-07/20.md",
+    "journal/live sans replay/EURUSD/2026-07/17.md",
+    "journal/live sans replay/GER40/2026-07/16.md",
+    "journal/live sans replay/GER40/2026-07/15.md",
+    "journal/live sans replay/GER40/2026-07/17.md",
+    "journal/live sans replay/GER40/2026-07/14.md",
+    "journal/live sans replay/GER40/2026-07/13.md",
+    "journal/live sans replay/GER40/2026-07/07.md",
+    "journal/live sans replay/GER40/2026-07/08-09.md",
+    "journal/live sans replay/GER40/2026-07",
+    "journal/live sans replay/GER40",
     "journal/live/EURUSD/2026-07/02",
-    "journal/live/EURUSD/2026-07",
-    "journal/live/EURUSD",
-    "journal/live",
+    "journal/live sans replay/EURUSD/2026-07",
+    "journal/live sans replay/EURUSD",
+    "journal/live sans replay",
     "journal/trades/AL trading/Trading Price actions/Climaxes",
-    "journal/trades/AL trading/Trading Price actions/Signal Bars/Bear Signal Bars",
-    "journal/trades/AL trading/Trading Price actions/Signal Bars",
-    "journal/trades/AL trading/Trading Price actions/Climaxes"
+    "journal/trades/AL trading/Trading Price actions/Signal Bars/Bear Signal Bars"
   ]
 }
