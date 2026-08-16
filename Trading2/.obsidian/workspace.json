@@ -4,21 +4,35 @@
     "type": "split",
     "children": [
       {
-        "id": "a621292517e4b02c",
+        "id": "3a2b9785035731a5",
         "type": "tabs",
         "children": [
           {
-            "id": "473c419fd241143c",
+            "id": "0714950d294c42d4",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "journal/live avec replay/EURUSD/22 - 15 Mai 2026.md",
+                "file": "journal/live avec replay/EURUSD/4 - 20 avril 2026.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "22 - 15 Mai 2026"
+              "title": "4 - 20 avril 2026"
+            }
+          },
+          {
+            "id": "57781e9a51db4342",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "journal/live avec replay/EURUSD/Perdants.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Perdants"
             }
           }
         ]
@@ -198,26 +212,38 @@
       "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "473c419fd241143c",
+  "active": "0714950d294c42d4",
   "lastOpenFiles": [
-    "Assets/Attachments/Pasted image 20260815092257.png",
-    "Assets/Attachments/Pasted image 20260815092228.png",
-    "Assets/Attachments/Pasted image 20260815092226.png",
+    "journal/live avec replay/EURUSD/3 - 19 avril 2026.md",
+    "journal/live avec replay/EURUSD/Perdants.md",
+    "journal/live avec replay/EURUSD/4 - 20 avril 2026.md",
+    "journal/live avec replay/EURUSD/2 - 17 avril 2026.md",
+    "journal/live avec replay/EURUSD/5 - 21 avril 2026.md",
+    "journal/live avec replay/EURUSD/1 - 16 avril 2026.md",
+    "journal/live avec replay/EURUSD/perdants/Sans titre.md",
+    "journal/live avec replay/EURUSD/perdants",
+    "2026-08-16.md",
+    "Assets/Attachments/Pasted image 20260816152255.png",
     "Excalidraw/Drawing 2026-06-04 10.31.42.excalidraw.restored.restored.md",
-    "Assets/Attachments/Pasted Image 20260815092007_785.png",
+    "Assets/Attachments/Pasted image 20260816151952.png",
+    "Assets/Attachments/Pasted image 20260816151033.png",
+    "Assets/Attachments/Pasted image 20260816145712.png",
+    "Assets/Attachments/Pasted image 20260816145707.png",
+    "journal/live avec replay/EURUSD/26 - 21 Mai 2026.md",
+    "Assets/Attachments/Pasted image 20260816113225.png",
+    "Assets/Attachments/Pasted image 20260816112959.png",
+    "Assets/Attachments/Pasted image 20260816112942.png",
+    "Assets/Attachments/Pasted image 20260816112856.png",
+    "Assets/Attachments/Pasted image 20260816112840.png",
+    "journal/live avec replay/EURUSD/25 - 20 Mai 2026.md",
+    "journal/live avec replay/EURUSD/24 - 19 Mai 2026.md",
+    "journal/live avec replay/EURUSD/23 - 18 Mai 2026.md",
     "journal/live avec replay/EURUSD/22 - 15 Mai 2026.md",
     "journal/live avec replay/EURUSD/21 - 14 Mai 2026.md",
     "journal/live avec replay/EURUSD/20 - 13 Mai 2026.md",
-    "Assets/Attachments/Pasted image 20260815091258.png",
-    "Assets/Attachments/Pasted image 20260815091114.png",
-    "Assets/Attachments/Pasted image 20260815091110.png",
-    "Assets/Attachments/Pasted Image 20260815090826_263.png",
-    "Assets/Attachments/Pasted Image 20260815090659_944.png",
-    "Assets/Attachments/Pasted image 20260815090318.png",
-    "Assets/Attachments/Pasted image 20260815090249.png",
+    "journal/live avec replay/EURUSD/18 - 11 Mai 2026.md",
     "journal/live avec replay/EURUSD/19 - 12 Mai 2026.md",
     "journal/live avec replay/EURUSD/17 - 08 Mai 2026.md",
-    "journal/live avec replay/EURUSD/18 - 11 Mai 2026.md",
     "journal/live avec replay/EURUSD/16 - 07 Mai 2026.md",
     "journal/live avec replay/EURUSD/15 - 06 Mai 2026.md",
     "journal/live avec replay/EURUSD/14 - 04 Mai 2026.md",
@@ -225,17 +251,6 @@
     "journal/live avec replay/EURUSD/12 - 30 avril 2026.md",
     "journal/live avec replay/EURUSD/11 - 29 avril 2026.md",
     "journal/live avec replay/EURUSD/10 - 28 avril 2026.md",
-    "journal/live avec replay/EURUSD/9 - 27 avril 2026.md",
-    "journal/live avec replay/EURUSD/8 - 24 avril 2026.md",
-    "journal/live avec replay/EURUSD/7 - 23 avril 2026.md",
-    "journal/live avec replay/EURUSD/6 - 22 avril 2026.md",
-    "journal/live avec replay/EURUSD/5 - 21 avril 2026.md",
-    "journal/live avec replay/EURUSD/4 - 20 avril 2026.md",
-    "journal/live avec replay/EURUSD/3 - 19 avril 2026.md",
-    "journal/live avec replay/EURUSD/2 - 17 avril 2026.md",
-    "journal/live avec replay/EURUSD/1 - 16 avril 2026.md",
-    "Excalidraw/Drawing 2026-06-04 10.31.42.excalidraw.restored.md",
-    "journal/live sans replay/EURUSD/2026-07/Eviter trader.md",
     "journal/live avec replay/EURUSD",
     "journal/live avec replay",
     "journal/live sans replay/GER40/2026-07",
@@ -244,7 +259,6 @@
     "journal/live sans replay/EURUSD/2026-07",
     "journal/live sans replay/EURUSD",
     "journal/live sans replay",
-    "journal/trades/AL trading/Trading Price actions/Climaxes",
-    "journal/trades/AL trading/Trading Price actions/Signal Bars/Bear Signal Bars"
+    "journal/trades/AL trading/Trading Price actions/Climaxes"
   ]
 }
