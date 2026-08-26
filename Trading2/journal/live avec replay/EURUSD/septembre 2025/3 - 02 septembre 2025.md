@@ -44,14 +44,14 @@
 
 <hr>
 
-+1
-
-![[Pasted image 20260819093446.png]]
++1![[Pasted image 20260826085038.png]]
+![[Pasted image 20260826085038.png]]
+![[Pasted image 20260826085038.png]]![[Pasted image 20260826085038.png]]
 
 ![[Pasted image 20260819093514.png]]
 
 <hr>
-
+	
 +1
 
 ![[Pasted image 20260819121159.png]]
