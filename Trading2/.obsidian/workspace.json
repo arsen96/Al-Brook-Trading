@@ -8,47 +8,20 @@
         "type": "tabs",
         "children": [
           {
-            "id": "0714950d294c42d4",
+            "id": "41907e303ec982f2",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "journal/live avec replay/EURUSD/septembre 2025/29 August.md",
+                "file": "journal/live avec replay/EURUSD/septembre 2025/4 - 03 septembre 2025.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "29 August"
-            }
-          },
-          {
-            "id": "57781e9a51db4342",
-            "type": "leaf",
-            "state": {
-              "type": "excalidraw",
-              "state": {
-                "file": "Excalidraw/Drawing 2026-06-04 10.31.42.excalidraw.restored.restored.md"
-              },
-              "icon": "excalidraw-icon",
-              "title": "Drawing 2026-06-04 10.31.42.excalidraw.restored.restored"
-            }
-          },
-          {
-            "id": "b82348164c3a0c70",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "journal/live avec replay/EURUSD/septembre 2025/3 - 02 septembre 2025.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "3 - 02 septembre 2025"
+              "title": "4 - 03 septembre 2025"
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -225,11 +198,19 @@
       "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "b82348164c3a0c70",
+  "active": "41907e303ec982f2",
   "lastOpenFiles": [
-    "Assets/Attachments/Pasted image 20260826085038.png",
+    "Assets/Attachments/Pasted image 20260826091543.png",
     "Excalidraw/Drawing 2026-06-04 10.31.42.excalidraw.restored.restored.md",
+    "journal/live avec replay/EURUSD/septembre 2025/5 - 04 septembre 2025.md",
+    "journal/live avec replay/EURUSD/septembre 2025/4 - 03 septembre 2025.md",
+    "Assets/Attachments/Pasted image 20260826091431.png",
+    "Excalidraw/Drawing 2026-06-04 10.31.42.excalidraw.restored.md",
+    "Excalidraw/Drawing 2026-06-04 10.31.42.excalidraw.md",
+    "Assets/Attachments/Pasted image 20260819122832.png",
+    "Assets/Attachments/Pasted image 20260826090407.png",
     "journal/live avec replay/EURUSD/septembre 2025/3 - 02 septembre 2025.md",
+    "Assets/Attachments/Pasted image 20260826085038.png",
     "Assets/Attachments/Pasted image 20260826084609.png",
     "Assets/Attachments/Pasted image 20260826083839.png",
     "journal/live avec replay/EURUSD/septembre 2025/2 - 01 septembre 2025.md",
@@ -239,10 +220,6 @@
     "Assets/Attachments/Pasted image 20260826080949.png",
     "Assets/Attachments/Pasted image 20260826075614.png",
     "journal/live avec replay/EURUSD/septembre 2025/20 -30 septembre 2026.md",
-    "Assets/Attachments/Pasted image 20260825104510.png",
-    "Assets/Attachments/Pasted image 20260825104504.png",
-    "journal/live avec replay/EURUSD/septembre 2025/4 - 03 septembre 2025.md",
-    "Assets/Attachments/Pasted image 20260825103350.png",
     "journal/live avec replay/EURUSD/septembre 2025/17 - 23 septembre 2025.md",
     "journal/live avec replay/EURUSD/septembre 2025/16 - 22 septembre 2025.md",
     "journal/live avec replay/EURUSD/septembre 2025/15 - 19 septembre 2025.md",
@@ -255,15 +232,11 @@
     "journal/live avec replay/EURUSD/septembre 2025/8 - 09 septembre 2025.md",
     "journal/live avec replay/EURUSD/septembre 2025/7 - 08 septembre 2025.md",
     "journal/live avec replay/EURUSD/septembre 2025/6 - 05 septembre 2025.md",
-    "journal/live avec replay/EURUSD/septembre 2025/5 - 04 septembre 2025.md",
-    "Assets/Attachments/Pasted image 20260825101703.png",
     "journal/live avec replay/EURUSD/septembre 2025/19 - 29 septembre 2026.md",
     "journal/live avec replay/EURUSD/septembre 2025/18 - 25 septembre 2025.md",
-    "Excalidraw/Drawing 2026-06-04 10.31.42.excalidraw.restored.md",
     "journal/live avec replay/EURUSD/avril 2026/Perdants.md",
     "journal/live avec replay/EURUSD/septembre 2025",
     "journal/live avec replay/EURUSD/avril 2026/26 - 21 Mai 2026.md",
-    "journal/live avec replay/EURUSD/avril 2026/24 - 19 Mai 2026.md",
     "journal/live avec replay/EURUSD/avril 2026",
     "journal/live avec replay/EURUSD/perdants",
     "journal/live avec replay/EURUSD",
