@@ -5,7 +5,7 @@
 
 ![[Pasted image 20260820080412.png]]
 
-![[Pasted image 20260827081403.png]]
+![[Pasted image 20260827085247.png]]
 <hr>
 
 +1
@@ -45,6 +45,8 @@
 +1
 
 ![[Pasted image 20260820084336.png]]
+
+![[Pasted image 20260827090546.png]]
 
 ![[Pasted image 20260820084402.png]]
 
