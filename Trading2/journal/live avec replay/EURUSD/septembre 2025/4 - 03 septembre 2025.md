@@ -15,7 +15,6 @@
 
 ![[Pasted image 20260826091543.png]]
 
-![[Pasted image 20260819123826.png]]
-
+![[Pasted image 20260827075610.png]]
 
 2 win / 1 Loss = Total 3

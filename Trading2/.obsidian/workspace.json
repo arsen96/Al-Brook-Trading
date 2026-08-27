@@ -8,17 +8,31 @@
         "type": "tabs",
         "children": [
           {
-            "id": "41907e303ec982f2",
+            "id": "a0b5ba84aedb883c",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "journal/live avec replay/EURUSD/septembre 2025/4 - 03 septembre 2025.md",
+                "file": "journal/live avec replay/EURUSD/septembre 2025/5 - 04 septembre 2025.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "4 - 03 septembre 2025"
+              "title": "5 - 04 septembre 2025"
+            }
+          },
+          {
+            "id": "5c1e7519307a0306",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "journal/live avec replay/EURUSD/septembre 2025/5 - 04 septembre 2025.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "5 - 04 septembre 2025"
             }
           }
         ]
@@ -198,27 +212,27 @@
       "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "41907e303ec982f2",
+  "active": "a0b5ba84aedb883c",
   "lastOpenFiles": [
-    "Assets/Attachments/Pasted image 20260826091543.png",
+    "Assets/Attachments/Pasted image 20260827083336.png",
     "Excalidraw/Drawing 2026-06-04 10.31.42.excalidraw.restored.restored.md",
+    "Assets/Attachments/Pasted Image 20260827082953_342.png",
     "journal/live avec replay/EURUSD/septembre 2025/5 - 04 septembre 2025.md",
+    "Assets/Attachments/Pasted image 20260827082326.png",
+    "Assets/Attachments/Pasted image 20260827081939.png",
+    "Assets/Attachments/Pasted image 20260827081403.png",
+    "Assets/Attachments/Pasted image 20260827081345.png",
+    "Assets/Attachments/Pasted image 20260827080840.png",
+    "Assets/Attachments/Pasted image 20260827080831.png",
+    "Assets/Attachments/Pasted Image 20260827080708_674.png",
     "journal/live avec replay/EURUSD/septembre 2025/4 - 03 septembre 2025.md",
-    "Assets/Attachments/Pasted image 20260826091431.png",
+    "Assets/Attachments/Pasted image 20260827075610.png",
+    "Assets/Attachments/Pasted image 20260826091543.png",
     "Excalidraw/Drawing 2026-06-04 10.31.42.excalidraw.restored.md",
     "Excalidraw/Drawing 2026-06-04 10.31.42.excalidraw.md",
-    "Assets/Attachments/Pasted image 20260819122832.png",
-    "Assets/Attachments/Pasted image 20260826090407.png",
     "journal/live avec replay/EURUSD/septembre 2025/3 - 02 septembre 2025.md",
-    "Assets/Attachments/Pasted image 20260826085038.png",
-    "Assets/Attachments/Pasted image 20260826084609.png",
-    "Assets/Attachments/Pasted image 20260826083839.png",
     "journal/live avec replay/EURUSD/septembre 2025/2 - 01 septembre 2025.md",
-    "Assets/Attachments/Pasted image 20260826082037.png",
     "journal/live avec replay/EURUSD/septembre 2025/1 - 29 August 2025.md",
-    "Assets/Attachments/Pasted image 20260826081138.png",
-    "Assets/Attachments/Pasted image 20260826080949.png",
-    "Assets/Attachments/Pasted image 20260826075614.png",
     "journal/live avec replay/EURUSD/septembre 2025/20 -30 septembre 2026.md",
     "journal/live avec replay/EURUSD/septembre 2025/17 - 23 septembre 2025.md",
     "journal/live avec replay/EURUSD/septembre 2025/16 - 22 septembre 2025.md",
