@@ -13,28 +13,29 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "journal/live avec replay/EURUSD/septembre 2025/17 - 23 septembre 2025.md",
+                "file": "journal/live avec replay/EURUSD/septembre 2025/20 -30 septembre 2026.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "17 - 23 septembre 2025"
+              "title": "20 -30 septembre 2026"
             }
           },
           {
             "id": "ca8ee8e19f7b01a0",
             "type": "leaf",
             "state": {
-              "type": "excalidraw",
+              "type": "markdown",
               "state": {
-                "file": "Excalidraw/Drawing 2026-06-04 10.31.42.excalidraw.restored.restored.md"
+                "file": "journal/live avec replay/EURUSD/septembre 2025/18 - 25 septembre 2025.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "excalidraw-icon",
-              "title": "Drawing 2026-06-04 10.31.42.excalidraw.restored.restored"
+              "icon": "lucide-file",
+              "title": "18 - 25 septembre 2025"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -211,12 +212,17 @@
       "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "ca8ee8e19f7b01a0",
+  "active": "cfcf2113dbae52ed",
   "lastOpenFiles": [
-    "journal/live avec replay/EURUSD/septembre 2025/18 - 25 septembre 2025.md",
-    "journal/live avec replay/EURUSD/septembre 2025/17 - 23 septembre 2025.md",
-    "Assets/Attachments/Pasted image 20260828084802.png",
+    "journal/live avec replay/EURUSD/septembre 2025/19 - 29 septembre 2026.md",
+    "Assets/Attachments/Pasted image 20260828102808.png",
     "Excalidraw/Drawing 2026-06-04 10.31.42.excalidraw.restored.restored.md",
+    "journal/live avec replay/EURUSD/septembre 2025/18 - 25 septembre 2025.md",
+    "Assets/Attachments/Pasted image 20260828093457.png",
+    "journal/live avec replay/EURUSD/septembre 2025/17 - 23 septembre 2025.md",
+    "Assets/Attachments/Pasted image 20260828093126.png",
+    "Assets/Attachments/Pasted image 20260828093118.png",
+    "Assets/Attachments/Pasted image 20260828084802.png",
     "journal/live avec replay/EURUSD/septembre 2025/16 - 22 septembre 2025.md",
     "Assets/Attachments/Pasted image 20260828084247.png",
     "Assets/Attachments/Pasted image 20260828082644.png",
@@ -224,11 +230,7 @@
     "journal/live avec replay/EURUSD/septembre 2025/15 - 19 septembre 2025.md",
     "Assets/Attachments/Pasted image 20260828081723.png",
     "Assets/Attachments/Pasted image 20260828081412.png",
-    "Assets/Attachments/Pasted image 20260828081350.png",
     "journal/live avec replay/EURUSD/septembre 2025/14 - 18 septembre 2025.md",
-    "Assets/Attachments/Pasted image 20260828080223.png",
-    "Assets/Attachments/Pasted image 20260828075713.png",
-    "Assets/Attachments/Pasted image 20260828074721.png",
     "journal/live avec replay/EURUSD/septembre 2025/13 - 17 septembre 2025.md",
     "journal/live avec replay/EURUSD/septembre 2025/12 - 16 septembre 2025.md",
     "journal/live avec replay/EURUSD/septembre 2025/11 - 15 septembre 2025.md",
@@ -245,7 +247,6 @@
     "journal/live avec replay/EURUSD/septembre 2025/2 - 01 septembre 2025.md",
     "journal/live avec replay/EURUSD/septembre 2025/1 - 29 August 2025.md",
     "journal/live avec replay/EURUSD/septembre 2025/20 -30 septembre 2026.md",
-    "journal/live avec replay/EURUSD/septembre 2025/19 - 29 septembre 2026.md",
     "journal/live avec replay/EURUSD/avril 2026/Perdants.md",
     "journal/live avec replay/EURUSD/septembre 2025",
     "journal/live avec replay/EURUSD/avril 2026/26 - 21 Mai 2026.md",

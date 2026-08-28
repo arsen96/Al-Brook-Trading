@@ -36,9 +36,9 @@
 
 ![[Pasted image 20260825082244.png]]
 
-![[Pasted image 20260825082633.png]]
-
+![[Pasted image 20260828102808.png]]
 <hr>
+
 
 -1
 
@@ -49,8 +49,6 @@
 +1
 
 ![[Pasted image 20260825084308.png]]
-
-<hr>
 
 ![[Pasted image 20260825084601.png]]
 4 win / 3 Loss = Total 7
