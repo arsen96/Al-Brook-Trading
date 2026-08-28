@@ -7,7 +7,7 @@
 
 +1
 
-![[Pasted image 20260823190419.png]]
+![[Pasted image 20260828082330.png]]
 
 ![[Pasted image 20260823190440.png]]
 
@@ -16,9 +16,7 @@
 +1
 
 ![[Pasted image 20260823190636.png]]
-
-![[Pasted image 20260823190656.png]]
-
+![[Pasted image 20260828082644.png]]
 <hr>
 
 +1

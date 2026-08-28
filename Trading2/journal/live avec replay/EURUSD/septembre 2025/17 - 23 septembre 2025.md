@@ -43,6 +43,6 @@
 
 ![[Pasted image 20260824083852.png]]
 
-![[Pasted image 20260824083933.png]]
+![[Pasted image 20260828084802.png]]
 
 4w/2L = Total 6
