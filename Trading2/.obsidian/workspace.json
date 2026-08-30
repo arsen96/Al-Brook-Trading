@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "journal/live avec replay/EURUSD/septembre 2025/20 -30 septembre 2026.md",
+                "file": "journal/live avec replay/EURUSD/septembre 2025/6 - 05 septembre 2025.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "20 -30 septembre 2026"
+              "title": "6 - 05 septembre 2025"
             }
           },
           {
@@ -27,15 +27,16 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "journal/live avec replay/EURUSD/septembre 2025/18 - 25 septembre 2025.md",
+                "file": "journal/live avec replay/GER40/juin 2026/1 - 01 juin.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "18 - 25 septembre 2025"
+              "title": "1 - 01 juin"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -212,52 +213,53 @@
       "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "cfcf2113dbae52ed",
+  "active": "ca8ee8e19f7b01a0",
   "lastOpenFiles": [
-    "journal/live avec replay/EURUSD/septembre 2025/19 - 29 septembre 2026.md",
-    "Assets/Attachments/Pasted image 20260828102808.png",
+    "Assets/Attachments/Pasted image 20260830125325.png",
+    "Excalidraw/Drawing 2026-08-30 12.48.36.excalidraw.md",
+    "Assets/Attachments/Pasted Image 20260830124920_540.png",
+    "journal/live avec replay/GER40/juin 2026/1 - 01 juin.md",
+    "Assets/Attachments/Pasted Image 20260830124813_380.png",
     "Excalidraw/Drawing 2026-06-04 10.31.42.excalidraw.restored.restored.md",
-    "journal/live avec replay/EURUSD/septembre 2025/18 - 25 septembre 2025.md",
-    "Assets/Attachments/Pasted image 20260828093457.png",
+    "journal/live avec replay/EURUSD/septembre 2025/5 - 04 septembre 2025.md",
+    "journal/live avec replay/GER40/juin 2026",
+    "journal/live avec replay/GER40/Sans titre.md",
+    "journal/live avec replay/GER40",
+    "journal/live avec replay/EURUSD/septembre 2025/7 - 08 septembre 2025.md",
+    "journal/live avec replay/EURUSD/septembre 2025/6 - 05 septembre 2025.md",
     "journal/live avec replay/EURUSD/septembre 2025/17 - 23 septembre 2025.md",
-    "Assets/Attachments/Pasted image 20260828093126.png",
-    "Assets/Attachments/Pasted image 20260828093118.png",
-    "Assets/Attachments/Pasted image 20260828084802.png",
-    "journal/live avec replay/EURUSD/septembre 2025/16 - 22 septembre 2025.md",
-    "Assets/Attachments/Pasted image 20260828084247.png",
-    "Assets/Attachments/Pasted image 20260828082644.png",
-    "Assets/Attachments/Pasted image 20260828082330.png",
-    "journal/live avec replay/EURUSD/septembre 2025/15 - 19 septembre 2025.md",
-    "Assets/Attachments/Pasted image 20260828081723.png",
-    "Assets/Attachments/Pasted image 20260828081412.png",
-    "journal/live avec replay/EURUSD/septembre 2025/14 - 18 septembre 2025.md",
-    "journal/live avec replay/EURUSD/septembre 2025/13 - 17 septembre 2025.md",
+    "journal/live avec replay/EURUSD/septembre 2025/9 - 10 septembre 2025.md",
+    "journal/live avec replay/EURUSD/septembre 2025/8 - 09 septembre 2025.md",
     "journal/live avec replay/EURUSD/septembre 2025/12 - 16 septembre 2025.md",
     "journal/live avec replay/EURUSD/septembre 2025/11 - 15 septembre 2025.md",
     "journal/live avec replay/EURUSD/septembre 2025/10 - 11 septembre 2025.md",
-    "journal/live avec replay/EURUSD/septembre 2025/9 - 10 septembre 2025.md",
-    "journal/live avec replay/EURUSD/septembre 2025/8 - 09 septembre 2025.md",
-    "journal/live avec replay/EURUSD/septembre 2025/6 - 05 septembre 2025.md",
-    "journal/live avec replay/EURUSD/septembre 2025/7 - 08 septembre 2025.md",
-    "journal/live avec replay/EURUSD/septembre 2025/5 - 04 septembre 2025.md",
+    "journal/live avec replay/EURUSD/septembre 2025/13 - 17 septembre 2025.md",
+    "journal/live avec replay/EURUSD/septembre 2025/14 - 18 septembre 2025.md",
+    "journal/live avec replay/EURUSD/septembre 2025/15 - 19 septembre 2025.md",
+    "journal/live avec replay/EURUSD/septembre 2025/16 - 22 septembre 2025.md",
+    "Assets/Attachments/Pasted image 20260829171415.png",
+    "journal/live avec replay/EURUSD/septembre 2025/18 - 25 septembre 2025.md",
     "journal/live avec replay/EURUSD/septembre 2025/4 - 03 septembre 2025.md",
-    "Excalidraw/Drawing 2026-06-04 10.31.42.excalidraw.restored.md",
-    "Excalidraw/Drawing 2026-06-04 10.31.42.excalidraw.md",
     "journal/live avec replay/EURUSD/septembre 2025/3 - 02 septembre 2025.md",
     "journal/live avec replay/EURUSD/septembre 2025/2 - 01 septembre 2025.md",
     "journal/live avec replay/EURUSD/septembre 2025/1 - 29 August 2025.md",
     "journal/live avec replay/EURUSD/septembre 2025/20 -30 septembre 2026.md",
-    "journal/live avec replay/EURUSD/avril 2026/Perdants.md",
+    "journal/live avec replay/EURUSD/septembre 2025/19 - 29 septembre 2026.md",
+    "Assets/Attachments/Pasted image 20260828102808.png",
+    "Assets/Attachments/Pasted image 20260828093457.png",
+    "Assets/Attachments/Pasted image 20260828093126.png",
+    "Assets/Attachments/Pasted image 20260828093118.png",
+    "Assets/Attachments/Pasted image 20260828084802.png",
+    "Assets/Attachments/Pasted image 20260828084247.png",
+    "Assets/Attachments/Pasted image 20260828082644.png",
+    "Excalidraw/Drawing 2026-06-04 10.31.42.excalidraw.restored.md",
     "journal/live avec replay/EURUSD/septembre 2025",
-    "journal/live avec replay/EURUSD/avril 2026/26 - 21 Mai 2026.md",
     "journal/live avec replay/EURUSD/avril 2026",
     "journal/live avec replay/EURUSD/perdants",
     "journal/live avec replay/EURUSD",
     "journal/live avec replay",
     "journal/live sans replay/GER40/2026-07",
     "journal/live sans replay/GER40",
-    "journal/live/EURUSD/2026-07/02",
-    "journal/live sans replay/EURUSD/2026-07",
-    "journal/live sans replay/EURUSD"
+    "journal/live/EURUSD/2026-07/02"
   ]
 }
