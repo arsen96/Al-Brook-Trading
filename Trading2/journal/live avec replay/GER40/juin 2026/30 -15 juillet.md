@@ -44,6 +44,9 @@
 
 ![[Pasted image 20260901172303.png]]
 
+![[Pasted image 20260903081417.png]]
+
+
 <hr>
 
 
@@ -52,6 +55,9 @@
 ![[Pasted image 20260901172725.png]]
 
 ![[Pasted image 20260901172805.png]]
+
+
+![[Pasted image 20260903082053.png]]
 
 
 
