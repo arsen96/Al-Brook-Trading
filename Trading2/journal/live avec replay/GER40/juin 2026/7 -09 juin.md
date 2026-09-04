@@ -1,7 +1,9 @@
 
 -1
 
-![[Pasted image 20260831101421.png]]
+
+![[Pasted image 20260904092601.png]]
+
 
 ![[Pasted image 20260831101456.png]]
 
@@ -9,7 +11,8 @@
 
 ![[Pasted image 20260831101223.png]]
 
-![[Pasted image 20260831101243.png]]
+![[Pasted image 20260904093051.png]]
+
 
 <hr>
 -1

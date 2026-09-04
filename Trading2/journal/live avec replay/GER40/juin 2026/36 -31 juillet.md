@@ -35,4 +35,8 @@ Un autre exemple de manipulation qui se ressemble
 
 ![[Pasted image 20260904082808.png]]
 
+![[Pasted image 20260904092617.png]]
+
+![[Pasted image 20260904093001.png]]
+
 3L /1W  = Total 4
