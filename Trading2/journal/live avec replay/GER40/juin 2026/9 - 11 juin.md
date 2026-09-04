@@ -15,6 +15,9 @@
 +1
 
 ![[Pasted image 20260901084642.png]]
+
+![[Pasted image 20260904091451.png]]
+
 ![[Pasted image 20260901084657.png]]
 
 2 win / 1 L = Total 3
