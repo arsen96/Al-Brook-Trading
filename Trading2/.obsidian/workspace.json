@@ -13,27 +13,30 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "journal/live avec replay/GER40/juin 2026/21 - 01 juillet.md",
+                "file": "journal/live avec replay/GER40/juin 2026/15 - 23 juin.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "21 - 01 juillet"
+              "title": "15 - 23 juin"
             }
           },
           {
-            "id": "de0aa5d3feb54486",
+            "id": "10d2b43888be84d1",
             "type": "leaf",
             "state": {
-              "type": "excalidraw",
+              "type": "markdown",
               "state": {
-                "file": "Excalidraw/Drawing 2026-08-30 12.48.36.excalidraw.md"
+                "file": "journal/live avec replay/GER40/juin 2026/13 - 19 juin.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "excalidraw-icon",
-              "title": "Drawing 2026-08-30 12.48.36.excalidraw"
+              "icon": "lucide-file",
+              "title": "13 - 19 juin"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -210,25 +213,35 @@
       "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "a2bfe415f834f5b7",
+  "active": "10d2b43888be84d1",
   "lastOpenFiles": [
-    "journal/live avec replay/GER40/juin 2026/22 - 02 juillet.md",
-    "Assets/Attachments/Pasted image 20260903100111.png",
+    "journal/live avec replay/GER40/juin 2026/14 - 22 juin.md",
     "Excalidraw/Drawing 2026-08-30 12.48.36.excalidraw.md",
-    "Assets/Attachments/Pasted image 20260903095715.png",
+    "journal/live avec replay/GER40/juin 2026/15 - 23 juin.md",
+    "Assets/Attachments/Pasted image 20260904084927.png",
+    "Assets/Attachments/Pasted image 20260904084921.png",
+    "Assets/Attachments/Pasted image 20260904084918.png",
+    "Assets/Attachments/Pasted image 20260904084910.png",
+    "journal/live avec replay/GER40/juin 2026/16 - 24 juin.md",
+    "Assets/Attachments/Pasted image 20260904083800.png",
+    "Assets/Attachments/Pasted Image 20260904083607_701.png",
+    "Assets/Attachments/Pasted image 20260904083549.png",
+    "Assets/Attachments/Pasted image 20260904083329.png",
+    "Assets/Attachments/Pasted image 20260904083120.png",
+    "journal/live avec replay/GER40/Manipulation.md",
+    "journal/live avec replay/GER40/juin 2026/36 -31 juillet.md",
+    "Assets/Attachments/Pasted image 20260904082808.png",
+    "journal/live avec replay/GER40/juin 2026/17 - 25 juin.md",
+    "journal/live avec replay/GER40/juin 2026/18 - 26 juin.md",
+    "journal/live avec replay/GER40/juin 2026/19 - 29 juin.md",
+    "journal/live avec replay/GER40/juin 2026/20 - 30 juin.md",
+    "journal/live avec replay/GER40/juin 2026/21 - 01 juillet.md",
+    "journal/live avec replay/GER40/juin 2026/22 - 02 juillet.md",
     "journal/live avec replay/GER40/juin 2026/24 - 06 juillet.md",
     "journal/live avec replay/GER40/juin 2026/23 - 03 juillet.md",
-    "Assets/Attachments/Pasted image 20260903095322.png",
     "journal/live avec replay/GER40/juin 2026/25 - 07 juillet.md",
     "journal/live avec replay/GER40/juin 2026/26 - 08 juillet.md",
-    "Assets/Attachments/Pasted image 20260903094639.png",
-    "Assets/Attachments/Pasted image 20260903094635.png",
-    "Assets/Attachments/Pasted image 20260903093239.png",
     "journal/live avec replay/GER40/juin 2026/27 - 09 juillet.md",
-    "Assets/Attachments/Pasted image 20260903092659.png",
-    "Assets/Attachments/Pasted image 20260903091952.png",
-    "Assets/Attachments/Pasted image 20260903091532.png",
-    "Assets/Attachments/Pasted image 20260903091330.png",
     "journal/live avec replay/GER40/juin 2026/28 - 10 juillet.md",
     "journal/live avec replay/GER40/juin 2026/29 - 13 juillet.md",
     "journal/live avec replay/GER40/juin 2026/30 -15 juillet.md",
@@ -237,16 +250,7 @@
     "journal/live avec replay/GER40/juin 2026/35 - 22 juillet.md",
     "journal/live avec replay/GER40/juin 2026/34 - 21 juillet.md",
     "journal/live avec replay/GER40/juin 2026/33 - 20 juillet.md",
-    "journal/live avec replay/GER40/juin 2026/36 -31 juillet.md",
-    "journal/live avec replay/GER40/juin 2026/21 - 01 juillet.md",
-    "journal/live avec replay/GER40/juin 2026/20 - 30 juin.md",
-    "journal/live avec replay/GER40/juin 2026/19 - 29 juin.md",
-    "journal/live avec replay/GER40/juin 2026/18 - 26 juin.md",
-    "journal/live avec replay/GER40/juin 2026/17 - 25 juin.md",
-    "journal/live avec replay/GER40/juin 2026/16 - 24 juin.md",
-    "journal/live avec replay/GER40/juin 2026/15 - 23 juin.md",
     "journal/live avec replay/GER40/juin 2026/13 - 19 juin.md",
-    "journal/live avec replay/GER40/juin 2026/14 - 22 juin.md",
     "journal/live avec replay/GER40/juin 2026",
     "journal/live avec replay/GER40",
     "journal/live avec replay/EURUSD/septembre 2025",
