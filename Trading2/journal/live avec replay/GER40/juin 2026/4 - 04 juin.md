@@ -3,6 +3,8 @@
 
 ![[Pasted image 20260831081059.png]]
 
+![[Pasted image 20260906123131.png]]
+
 ![[Pasted image 20260831081121.png]]
 
 <hr>
@@ -18,6 +20,8 @@
 -1
 
 ![[Pasted image 20260831081639.png]]
+
+![[Pasted image 20260906123341.png]]
 
 ![[Pasted image 20260831081704.png]]
 
