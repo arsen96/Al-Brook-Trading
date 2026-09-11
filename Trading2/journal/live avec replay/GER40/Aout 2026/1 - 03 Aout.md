@@ -13,6 +13,7 @@
 
 ![[Pasted image 20260907082218.png]]
 
+![[Pasted image 20260910100333.png]]
 
 <hr>
 
