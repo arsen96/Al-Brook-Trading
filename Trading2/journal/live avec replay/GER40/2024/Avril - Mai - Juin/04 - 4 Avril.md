@@ -24,8 +24,7 @@
 ![[Pasted image 20260915093010.png]]
 
 
-![[Pasted image 20260915093028.png]]
-
+![[Pasted image 20260916164205.png]]
 ![[Pasted image 20260915093651.png]]
 
 3Win /1L= Total 4
