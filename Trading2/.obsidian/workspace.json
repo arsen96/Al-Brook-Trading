@@ -13,24 +13,26 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "journal/live avec replay/GER40/2024/Avril - Mai - Juin/05 - 7 Avril.md",
+                "file": "journal/live avec replay/GER40/2024/Avril - Mai - Juin/10 - 14 Avril.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "05 - 7 Avril"
+              "title": "10 - 14 Avril"
             }
           },
           {
             "id": "0628d0703b472c5c",
             "type": "leaf",
             "state": {
-              "type": "excalidraw",
+              "type": "markdown",
               "state": {
-                "file": "Excalidraw/Drawing 2026-08-30 12.48.36.excalidraw.md"
+                "file": "journal/live avec replay/GER40/2024/Avril - Mai - Juin/10 - 14 Avril.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "excalidraw-icon",
-              "title": "Drawing 2026-08-30 12.48.36.excalidraw"
+              "icon": "lucide-file",
+              "title": "10 - 14 Avril"
             }
           },
           {
@@ -43,7 +45,8 @@
               "title": "Nouvel onglet"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -219,24 +222,29 @@
       "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "9e24e992c4bce1ed",
+  "active": "0628d0703b472c5c",
   "lastOpenFiles": [
-    "Assets/Attachments/Pasted image 20260916165414.png",
+    "Assets/Attachments/Pasted image 20260916182720.png",
+    "journal/live avec replay/GER40/2024/Avril - Mai - Juin/09 - 11 Avril.md",
+    "journal/live avec replay/GER40/2024/Avril - Mai - Juin/08 - 10 Avril.md",
     "Excalidraw/Drawing 2026-08-30 12.48.36.excalidraw.md",
+    "journal/live avec replay/GER40/2024/Avril - Mai - Juin/10 - 14 Avril.md",
+    "journal/live avec replay/GER40/2024/Avril - Mai - Juin/07 - 09 Avril.md",
+    "Assets/Attachments/Pasted image 20260916181047.png",
+    "Assets/Attachments/Pasted Image 20260916181016_602.png",
+    "journal/live avec replay/GER40/2024/Avril - Mai - Juin/06 - 8 Avril.md",
+    "Assets/Attachments/Pasted image 20260916170034.png",
+    "Assets/Attachments/Pasted Image 20260916165909_162.png",
     "journal/live avec replay/GER40/2024/Avril - Mai - Juin/05 - 7 Avril.md",
+    "journal/live avec replay/GER40/2024/Avril - Mai - Juin/04 - 4 Avril.md",
+    "Assets/Attachments/Pasted image 20260916165414.png",
     "Assets/Attachments/Pasted Image 20260916165234_588.png",
     "Assets/Attachments/Pasted image 20260916165228.png",
     "Assets/Attachments/Pasted image 20260916165159.png",
     "Assets/Attachments/Pasted image 20260916165149.png",
     "Assets/Attachments/Pasted Image 20260916164817_274.png",
-    "Assets/Attachments/Pasted image 20260916164525.png",
-    "journal/live avec replay/GER40/2024/Avril - Mai - Juin/04 - 4 Avril.md",
-    "Assets/Attachments/Pasted image 20260916164205.png",
     "journal/live avec replay/GER40/2024/Avril - Mai - Juin/03 - 3 Avril.md",
-    "Assets/Attachments/Pasted image 20260916163536.png",
     "journal/live avec replay/GER40/2024/Avril - Mai - Juin/02 - 2 Avril.md",
-    "Assets/Attachments/Pasted image 20260916163156.png",
-    "Assets/Attachments/Pasted image 20260916163128.png",
     "journal/live avec replay/GER40/2024/Avril - Mai - Juin/1- 1 Avril.md",
     "journal/live avec replay/GER40/2024/Avril - Mai - Juin/Analyse/1 Avril.md",
     "journal/live avec replay/GER40/2024/Avril - Mai - Juin/01 - Resultat.md",
@@ -254,11 +262,6 @@
     "journal/live avec replay/GER40/2024/Avril - Mai - Juin/37 -29 Mai.md",
     "journal/live avec replay/GER40/2024/Avril - Mai - Juin/36 -28 Mai.md",
     "journal/live avec replay/GER40/2024/Avril - Mai - Juin/35 - 27 Mai.md",
-    "journal/live avec replay/GER40/2024/Avril - Mai - Juin/34 - 26 Mai.md",
-    "journal/live avec replay/GER40/2024/Avril - Mai - Juin/33 - 22 Mai.md",
-    "journal/live avec replay/GER40/2024/Avril - Mai - Juin/32 - 21 Mai.md",
-    "journal/live avec replay/GER40/2024/Avril - Mai - Juin/31 - 20 Mai.md",
-    "journal/live avec replay/GER40/2024/Avril - Mai - Juin/22 -06 Mai.md",
     "journal/live avec replay/GER40/2026",
     "journal/live avec replay/GER40/2024/Avril - Mai - Juin",
     "journal/live avec replay/GER40/2026/Avril 2026",

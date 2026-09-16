@@ -8,5 +8,7 @@
 
 ![[Pasted image 20260915114508.png]]
 
+![[Pasted image 20260916182720.png]]
+
 
 1L = Total 1

@@ -4,6 +4,8 @@
 
 ![[Pasted image 20260915102514.png]]
 
+![[Pasted image 20260916181047.png]]
+
 <hr>
 
 +1
