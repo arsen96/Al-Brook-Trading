@@ -15,4 +15,6 @@
 
 ![[Pasted image 20260915091434.png]]
 
+![[Pasted image 20260916163536.png]]
+
 2Win = Total 2
