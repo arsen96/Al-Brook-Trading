@@ -2,6 +2,12 @@
 
 ![[Pasted image 20260915110229.png]]
 
+![[Pasted image 20260917083512.png]]
+
+![[Pasted image 20260917083052.png]]
+
+![[Pasted image 20260917083658.png]]
+
 ![[Pasted image 20260915110315.png]]
 <hr>
 
