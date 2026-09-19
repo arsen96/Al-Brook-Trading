@@ -12,6 +12,8 @@
 
 ![[Pasted image 20260917184814.png]]
 
+![[Pasted image 20260919075256.png]]
+
 <hr>
 
 2W = Total 2
