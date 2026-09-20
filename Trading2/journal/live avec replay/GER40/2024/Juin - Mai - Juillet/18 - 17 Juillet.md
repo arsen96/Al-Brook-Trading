@@ -25,6 +25,6 @@
 
 ![[Pasted image 20260918084051.png]]
 
-![[Pasted image 20260918084109.png]]
+![[Pasted image 20260919194036.png]]
 
 3W = Total 3
