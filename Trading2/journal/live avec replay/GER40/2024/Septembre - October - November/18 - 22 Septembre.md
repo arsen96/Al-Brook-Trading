@@ -17,4 +17,14 @@
 
 ![[Pasted image 20260922072423.png]]
 
-2W = Total 2
+<hr>
+
++1
+
+![[Pasted image 20260922075219.png]]
+
+![[Pasted image 20260922075334.png]]
+
+![[Pasted image 20260922075626.png]]
+
+3W = Total 3
