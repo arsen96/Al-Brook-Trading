@@ -20,4 +20,21 @@
 
 ![[Pasted image 20260927092331.png]]
 
-3W = Total 3
+<hr>
+
++1
+
+![[Pasted image 20260927112207.png]]
+
+![[Pasted image 20260927112233.png]]
+
+<hr>
+
++1
+
+![[Pasted image 20260927113045.png]]
+
+![[Pasted image 20260927113015.png]]
+
+
+5W = Total 5
