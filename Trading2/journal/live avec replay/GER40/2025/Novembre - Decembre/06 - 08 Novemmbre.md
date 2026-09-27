@@ -16,7 +16,10 @@
 
 ![[Pasted image 20260926144050.png]]
 
+
 ![[Pasted image 20260926142439.png]]
+
++1
 
 ![[Pasted image 20260926143748.png]]
 
@@ -30,5 +33,5 @@
 
 ![[Pasted image 20260926144543.png]]
 
-2W / 1L = Total 3
+3W / 1L = Total 4
 
