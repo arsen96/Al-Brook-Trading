@@ -11,12 +11,14 @@
             "id": "f7c2f84c247580ed",
             "type": "leaf",
             "state": {
-              "type": "excalidraw",
+              "type": "markdown",
               "state": {
-                "file": "Excalidraw/Drawing 2026-08-30 12.48.36.excalidraw.md"
+                "file": "journal/live avec replay/GER40/2024/Juillet - Aout/35 - 17 Septembre.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "excalidraw-icon",
-              "title": "Drawing 2026-08-30 12.48.36.excalidraw"
+              "icon": "lucide-file",
+              "title": "35 - 17 Septembre"
             }
           },
           {
@@ -25,16 +27,15 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "journal/live avec replay/GER40/2024/Juillet - Aout/23 - 28 Aout.md",
+                "file": "journal/live avec replay/GER40/2024/Juillet - Aout/Sans titre.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "23 - 28 Aout"
+              "title": "Sans titre"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -210,24 +211,37 @@
       "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "f57e7e90d67f1d13",
+  "active": "f7c2f84c247580ed",
   "lastOpenFiles": [
-    "Assets/Attachments/Pasted image 20261003184826.png",
+    "Assets/Attachments/Pasted image 20261004090200.png",
+    "Assets/Attachments/Pasted image 20261004090139.png",
     "Excalidraw/Drawing 2026-08-30 12.48.36.excalidraw.md",
-    "Assets/Attachments/Pasted Image 20261003184810_432.png",
+    "Assets/Attachments/Pasted Image 20261004090108_611.png",
+    "journal/live avec replay/GER40/2024/Juillet - Aout/35 - 17 Septembre.md",
+    "Assets/Attachments/Pasted image 20261004085934.png",
+    "Assets/Attachments/Pasted image 20261004085916.png",
+    "Assets/Attachments/Pasted image 20261004085901.png",
+    "journal/live avec replay/GER40/2024/Juillet - Aout/34 - 12 Septembre.md",
+    "Assets/Attachments/Pasted Image 20261004085806_086.png",
+    "Assets/Attachments/Pasted Image 20261004085615_373.png",
+    "journal/live avec replay/GER40/2024/Juillet - Aout/Sans titre.md",
+    "Assets/Attachments/Pasted image 20261004084530.png",
+    "Assets/Attachments/Pasted image 20261004084352.png",
+    "Assets/Attachments/Pasted Image 20261004084110_751.png",
+    "journal/live avec replay/GER40/2024/Juillet - Aout/33 - 11 Septembre.md",
+    "journal/live avec replay/GER40/2024/Juillet - Aout/31 - 09 Septembre.md",
+    "journal/live avec replay/GER40/2024/Juillet - Aout/32 - 10 Septembre.md",
+    "journal/live avec replay/GER40/2024/Juillet - Aout/30 - 06 Septembre.md",
+    "journal/live avec replay/GER40/2024/Juillet - Aout/29 - 05 Septembre.md",
+    "journal/live avec replay/GER40/2024/Juillet - Aout/27 - 03 Septembre.md",
+    "journal/live avec replay/GER40/2024/Juillet - Aout/28 - 04 Septembre.md",
+    "journal/live avec replay/GER40/2024/Juillet - Aout/26 - 02 Septembre.md",
+    "journal/live avec replay/GER40/2024/Juillet - Aout/25 - 30 Aout.md",
+    "journal/live avec replay/GER40/2024/Juillet - Aout/24 - 29 Aout.md",
     "journal/live avec replay/GER40/2024/Juillet - Aout/23 - 28 Aout.md",
-    "Assets/Attachments/Pasted image 20261003184738.png",
-    "Assets/Attachments/Pasted Image 20261003184708_718.png",
-    "Assets/Attachments/Pasted image 20261003184620.png",
-    "Assets/Attachments/Pasted Image 20261003184545_477.png",
-    "Assets/Attachments/Pasted image 20261003183820.png",
-    "Assets/Attachments/Pasted image 20261003183749.png",
-    "Assets/Attachments/Pasted image 20261003183733.png",
     "journal/live avec replay/GER40/2024/Juillet - Aout/20 - 22 Aout.md",
     "journal/live avec replay/GER40/2024/Juillet - Aout/21 - 23 Aout.md",
     "journal/live avec replay/GER40/2024/Juillet - Aout/22 - 26 Aout.md",
-    "Assets/Attachments/Pasted image 20261003183134.png",
-    "Assets/Attachments/Pasted image 20261003183017.png",
     "journal/live avec replay/GER40/2024/Juillet - Aout/19 - 20 Aout.md",
     "journal/live avec replay/GER40/2024/Juillet - Aout/17 - 15 Aout.md",
     "journal/live avec replay/GER40/2024/Juillet - Aout/18 - analyse monté.md",
@@ -235,19 +249,6 @@
     "journal/live avec replay/GER40/2024/Juillet - Aout/16 - 13 Aout.md",
     "journal/live avec replay/GER40/2024/Juillet - Aout/15 - 12 Aout.md",
     "journal/live avec replay/GER40/2024/Juillet - Aout/12 - 07 Aout.md",
-    "journal/live avec replay/GER40/2024/Juillet - Aout/13 - 08 Aout.md",
-    "journal/live avec replay/GER40/2024/Juillet - Aout/11 - 06 Aout.md",
-    "journal/live avec replay/GER40/2024/Juillet - Aout/10 - 05 Aout.md",
-    "journal/live avec replay/GER40/2024/Juillet - Aout/03 - 25 Juillet.md",
-    "journal/live avec replay/GER40/2024/Juillet - Aout/04 - 26 Juillet.md",
-    "journal/live avec replay/GER40/2024/Juillet - Aout/05 - 29 Juillet.md",
-    "journal/live avec replay/GER40/2024/Juillet - Aout/06 - 30 Juillet.md",
-    "journal/live avec replay/GER40/2024/Juillet - Aout/07 - 31 Juillet.md",
-    "journal/live avec replay/GER40/2024/Juillet - Aout/09 - 02 Aout.md",
-    "journal/live avec replay/GER40/2024/Juillet - Aout/08 - 01 Aout.md",
-    "journal/live avec replay/GER40/2024/Juillet - Aout/02 - 24 Juillet.md",
-    "journal/live avec replay/GER40/2024/Juillet - Aout/01 - 23 Juillet.md",
-    "journal/live avec replay/GER40/2024/Sans titre.md",
     "journal/live avec replay/GER40/2024/Juillet - Aout",
     "journal/live avec replay/GER40/2024/Mai - Juin - Juillet",
     "journal/live avec replay/GER40/2024",
