@@ -17,5 +17,6 @@
 
 ![[Pasted image 20261004165200.png]]
 
+![[Pasted image 20261005100118.png]]
 
 4W = Total 4

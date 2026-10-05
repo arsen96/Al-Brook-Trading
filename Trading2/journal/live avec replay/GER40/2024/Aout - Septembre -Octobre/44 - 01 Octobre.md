@@ -22,6 +22,6 @@
 
 ![[Pasted image 20261004141010.png]]
 
-![[Pasted image 20261004141059.png]]
+![[Pasted image 20261005095204.png]]
 
 1L / 2W = 3
