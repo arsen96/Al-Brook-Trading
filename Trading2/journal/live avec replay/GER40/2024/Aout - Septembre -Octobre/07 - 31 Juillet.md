@@ -5,4 +5,6 @@
 ![[Pasted image 20261002092553.png]]
 <hr>
 
+![[Pasted image 20261005070654.png]]
+
 1W = Total 1

@@ -14,4 +14,7 @@
 ![[Pasted image 20261002091107.png]]
 
 
+![[Pasted image 20261005065913.png]]
+
+
 1W / 1L = Total 2
