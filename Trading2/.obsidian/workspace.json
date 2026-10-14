@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "journal/trades/AL trading/Trading Price Action Ranges/EMA.md",
+                "file": "journal/trades/AL trading/Trading Price Action Ranges/Breakouts.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "EMA"
+              "title": "Breakouts"
             }
           },
           {
@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "journal/live avec replay/EURUSD/2026/Success 2/analyse/15 - 20 Aug.md",
+                "file": "journal/trades/AL trading/Trading Price Action Ranges/Final Flag.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "15 - 20 Aug"
+              "title": "Final Flag"
             }
           },
           {
@@ -41,12 +41,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "journal/trades/AL trading/Trading Price Action Ranges/EMA.md",
+                "file": "journal/trades/AL trading/Trading Price Action Ranges/Breakouts.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "EMA"
+              "title": "Breakouts"
             }
           }
         ]
@@ -227,28 +227,30 @@
   },
   "active": "f7c2f84c247580ed",
   "lastOpenFiles": [
-    "Assets/Attachments/Pasted image 20261014113008.png",
-    "journal/trades/AL trading/Trading Price Action Ranges/Breakouts.md",
-    "Assets/Attachments/Pasted image 20261014112959.png",
-    "journal/trades/AL trading/Trading Price Action Ranges/Measured Move.md",
-    "Assets/Attachments/Pasted image 20261014112952.png",
-    "Assets/Attachments/Pasted image 20261014112920.png",
+    "Assets/Attachments/Pasted image 20261014164955.png",
+    "journal/trades/AL trading/Trading Price Action Ranges/Final Flag.md",
+    "Assets/Attachments/Pasted image 20261014164948.png",
     "Excalidraw/Drawing 2026-08-30 12.48.36.excalidraw.md",
-    "Assets/Attachments/Pasted Image 20261014110920_114.png",
-    "journal/trades/AL trading/Trading Price Action Ranges/EMA.md",
-    "Assets/Attachments/Pasted image 20261014105649.png",
-    "Assets/Attachments/Pasted image 20261014105646.png",
-    "Assets/Attachments/Pasted Image 20261014105612_481.png",
-    "Assets/Attachments/Pasted Image 20261014104035_738.png",
-    "journal/live avec replay/EURUSD/2026/Success 2/analyse/14 - 19 Aug.md",
-    "journal/trades/AL trading/Trading Price Action Ranges/Gap.md",
-    "journal/trades/AL trading/Trading Price Action Ranges/Always In Long.md",
-    "Assets/Attachments/Pasted image 20261014103750.png",
-    "journal/trades/AL trading/Trading Price Action Ranges/Traps.md",
-    "Assets/Attachments/Pasted image 20261014103738.png",
+    "Assets/Attachments/Pasted Image 20261014164742_626.png",
     "journal/trades/AL trading/Trading Price Action Ranges/Wedges.md",
-    "journal/trades/AL trading/Trading Price Action Ranges/Follow Through.md",
+    "journal/trades/AL trading/Trading Price Action Ranges/Breakouts.md",
+    "Assets/Attachments/Pasted image 20261014164435.png",
+    "Assets/Attachments/Pasted image 20261014164434.png",
+    "Assets/Attachments/Pasted image 20261014164432.png",
+    "Assets/Attachments/Pasted image 20261014164426.png",
+    "journal/trades/AL trading/Trading Price Action Ranges/Always In Long or Short.md",
+    "Assets/Attachments/Pasted image 20261014164402.png",
+    "Assets/Attachments/Pasted image 20261014164359.png",
+    "Assets/Attachments/Pasted Image 20261014163733_703.png",
+    "journal/trades/AL trading/Trading Price Action Ranges/Measured Move.md",
+    "journal/trades/AL trading/Trading Price Action Ranges/Breakout Even.md",
+    "journal/trades/AL trading/Trading Price Action Ranges/Gap.md",
+    "journal/trades/AL trading/Trading Price Action Ranges/EMA.md",
+    "Assets/Attachments/Pasted image 20261014162039.png",
     "journal/live avec replay/EURUSD/2026/Success 2/analyse/15 - 20 Aug.md",
+    "journal/live avec replay/EURUSD/2026/Success 2/analyse/14 - 19 Aug.md",
+    "journal/trades/AL trading/Trading Price Action Ranges/Traps.md",
+    "journal/trades/AL trading/Trading Price Action Ranges/Follow Through.md",
     "journal/live avec replay/EURUSD/2026/Success 2/analyse/13 - 17 Aug.md",
     "journal/live avec replay/EURUSD/2026/Success 2/realisation/32 - 14 Septembre.md",
     "journal/live avec replay/EURUSD/2026/Success 2/analyse/12 - 13 Aug.md",
@@ -261,8 +263,6 @@
     "journal/live avec replay/EURUSD/2026/Success 2/realisation/5 - 30 Juillet.md",
     "journal/live avec replay/EURUSD/2026/Success 2/realisation/6 - 31 Juillet.md",
     "journal/live avec replay/EURUSD/2026/Success 2/analyse/4 - 29 Juillet.md",
-    "journal/live avec replay/EURUSD/2026/Success 2/analyse/5 - 30 Juillet.md",
-    "journal/live avec replay/EURUSD/2026/Success 2/analyse/6 - 31 Juillet.md",
     "journal/live avec replay/EURUSD/2026/Success 2/analyse",
     "journal/live avec replay/EURUSD/2026/Success 2/realisation",
     "journal/trades/AL trading/Sans titre/Sans titre",
