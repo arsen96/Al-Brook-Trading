@@ -1,4 +1,6 @@
 
+
+
 ![[Pasted image 20261011090457.png]]
 
 ![[Pasted image 20261011112946.png]]
@@ -45,3 +47,18 @@
 
 
 ![[Pasted image 20261015083416.png]]
+
+![[Pasted image 20261015092204.png]]
+
+![[Pasted image 20261015111412.png]]
+
+![[Pasted image 20261015143240.png]]
+
+![[Pasted image 20261015144743.png]]
+
+
+![[Pasted image 20261015150525.png]]
+
+![[Pasted image 20261015152233.png]]
+
+![[Pasted image 20261015164806.png]]
