@@ -26,3 +26,8 @@ Bull Spike → Bull Channel.
 🎯 Start of Channel = Magnet.
 → Retest possible.
 
+![[Pasted image 20261015195733.png]]
+
+![[Pasted image 20261016082634.png]]
+
+![[Pasted image 20261016085436.png]]
