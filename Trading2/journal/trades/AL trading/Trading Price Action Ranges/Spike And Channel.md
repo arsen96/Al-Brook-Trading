@@ -31,3 +31,7 @@ Bull Spike → Bull Channel.
 ![[Pasted image 20261016082634.png]]
 
 ![[Pasted image 20261016085436.png]]
+
+![[Pasted image 20261016103208.png]]
+
+![[Pasted image 20261016111016.png]]

@@ -80,3 +80,11 @@
 ![[Pasted image 20261016085502.png]]
 
 ![[Pasted image 20261016092130.png]]
+
+![[Pasted image 20261016103208.png]]
+
+![[Pasted image 20261016111016.png]]
+
+![[Pasted image 20261016205806.png]]
+
+![[Pasted image 20261016213531.png]]
