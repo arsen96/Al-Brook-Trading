@@ -13,4 +13,14 @@
 
 # WEDGES Chapitre
 
+![[Pasted image 20261022100203.png]]
 
+![[Pasted image 20261022101044.png]]
+
+![[Pasted image 20261022101536.png]]
+
+![[Pasted image 20261022102157.png]]
+
+![[Pasted image 20261022103732.png]]
+
+![[Pasted image 20261022105048.png]]

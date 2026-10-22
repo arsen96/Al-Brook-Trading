@@ -28,3 +28,7 @@ Mais dans un Trading Range, acheter un High 2 près du sommet revient souvent à
 ![[Pasted image 20261022090747.png]]
 
 ![[Pasted image 20261022093638.png]]
+
+![[Pasted image 20261022103721.png]]
+
+![[Pasted image 20261022105109.png]]
