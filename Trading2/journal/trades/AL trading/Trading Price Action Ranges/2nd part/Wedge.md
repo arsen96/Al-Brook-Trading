@@ -24,3 +24,27 @@
 ![[Pasted image 20261022103732.png]]
 
 ![[Pasted image 20261022105048.png]]
+
+![[Pasted image 20261022112453.png]]
+
+![[Pasted image 20261022112908.png]]
+
+![[Pasted image 20261022113543.png]]
+
+![[Pasted image 20261022180113.png]]
+
+![[Pasted image 20261023112743.png]]
+
+![[Pasted image 20261023134445.png]]
+
+![[Pasted image 20261023140129.png]]
+
+![[Pasted image 20261023141947.png]]
+
+![[Pasted image 20261023143143.png]]
+
+![[Pasted image 20261023145141.png]]
+
+![[Pasted image 20261023145942.png]]
+
+![[Pasted image 20261023161246.png]]
