@@ -40,3 +40,29 @@
 ![[Pasted image 20261023161125.png]]
 
 ![[Pasted image 20261024080254.png]]
+
+# Tigh Trading Ranges
+
+![[Pasted image 20261025202729.png]]
+
+![[Pasted image 20261025204554.png]]
+
+![[Pasted image 20261025220315.png]]
+
+![[Pasted image 20261025220835.png]]
+
+![[Pasted image 20261026093306.png]]
+
+![[Pasted image 20261026093650.png]]
+
+![[Pasted image 20261026094947.png]]
+
+![[Pasted image 20261026151752.png]]
+
+![[Pasted image 20261026152944.png]]![[Pasted image 20261026152944.png]]
+
+![[Pasted image 20261026153957.png]]
+
+![[Pasted image 20261026160900.png]]
+
+![[Pasted image 20261026161632.png]]
