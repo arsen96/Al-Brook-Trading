@@ -50,3 +50,7 @@ NE PAS AVOIR PEUR DES PETITS BOUGIES CAR le marché produit tjrs la meme chose p
 
 ![[Pasted image 20261031160427.png]]
 
+
+
+
+![[Pasted image 20261101132951.png]]
