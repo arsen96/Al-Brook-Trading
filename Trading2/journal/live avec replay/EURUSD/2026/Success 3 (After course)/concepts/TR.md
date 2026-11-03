@@ -1,4 +1,5 @@
 
+
 RÈGLE D'OR — TRADING RANGE
 🔴 Haut du TR : chercher SHORT.
 🟢 Bas du TR : chercher LONG.
@@ -54,3 +55,52 @@ NE PAS AVOIR PEUR DES PETITS BOUGIES CAR le marché produit tjrs la meme chose p
 
 
 ![[Pasted image 20261101132951.png]]
+
+
+<hr>
+
+[[31 - 02 analyse]] -> analyse approfondi
+
+![[Pasted image 20261101195343.png]]
+
+![[Pasted image 20261102070624.png]]
+
+<hr>
+
+[[35 - 06 analyse]]
+![[Pasted image 20261102075125.png]]
+
+<hr>
+
+![[Pasted image 20261102085457.png]]
+
+<hr>
+
+[[38 - 11 analyse]]
+
+![[Pasted image 20261102100420.png]]
+
+![[Pasted image 20261102100813.png]]
+
+<hr>
+
+
+[[39 - 12 analyse]]
+
+![[Pasted image 20261103083627.png]]
+
+<hr>
+
+![[Pasted image 20261103090636.png]]
+
+![[Pasted image 20261103092527.png]]
+
+<hr>
+
+![[Pasted image 20261103092510.png]]
+
+![[Pasted image 20261103092705.png]]
+
+![[Pasted image 20261103095511.png]]
+
+![[Pasted image 20261103100546.png]]
