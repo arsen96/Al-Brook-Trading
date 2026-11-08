@@ -104,3 +104,10 @@ NE PAS AVOIR PEUR DES PETITS BOUGIES CAR le marché produit tjrs la meme chose p
 ![[Pasted image 20261103095511.png]]
 
 ![[Pasted image 20261103100546.png]]
+
+
+<hr>
+
+![[Pasted image 20261106090353.png]]
+
+![[Pasted image 20261106103301.png]]

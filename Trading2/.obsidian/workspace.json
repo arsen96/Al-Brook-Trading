@@ -13,40 +13,66 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "journal/live avec replay/EURUSD/2026/Success 3 (After course)/41 - 16 analyse.md",
+                "file": "journal/live avec replay/EURUSD/2026/Success 5 (After Course)/12 Mars.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "41 - 16 analyse"
-            }
-          },
-          {
-            "id": "dcb7cdaafe7a9e16",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "journal/live avec replay/EURUSD/2026/Success 3 (After course)/41 - 16 analyse.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "41 - 16 analyse"
+              "title": "12 Mars"
             }
           },
           {
             "id": "e76762c70c2cb1c1",
             "type": "leaf",
             "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "Excalidraw/Drawing 2026-08-30 12.48.36.excalidraw.md"
+              },
+              "icon": "excalidraw-icon",
+              "title": "Drawing 2026-08-30 12.48.36.excalidraw"
+            }
+          },
+          {
+            "id": "cd5829f274a0cab8",
+            "type": "leaf",
+            "state": {
               "type": "markdown",
               "state": {
-                "file": "journal/live avec replay/EURUSD/2026/Success 3 (After course)/concepts/TR.md",
+                "file": "journal/trades/AL trading/Trading Price Action Ranges/1st part/All.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "TR"
+              "title": "All"
+            }
+          },
+          {
+            "id": "ca8e162b3b61f664",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "journal/live avec replay/EURUSD/2026/Success 5 (After Course)/13 Mars.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "13 Mars"
+            }
+          },
+          {
+            "id": "04f8b069510357c2",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "journal/live avec replay/EURUSD/2026/Success 5 (After Course)/12 Mars.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "12 Mars"
             }
           }
         ],
@@ -125,7 +151,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "journal/live avec replay/GER40/Aout 2026/3 - 05 Aout.md",
+                "file": "journal/live avec replay/EURUSD/2026/Success 5 (After Course)/10 Mars.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -226,43 +252,45 @@
       "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "e76762c70c2cb1c1",
+  "active": "cd5829f274a0cab8",
   "lastOpenFiles": [
-    "journal/live avec replay/EURUSD/2026/Success 3 (After course)/41 - 16 analyse.md",
+    "journal/live avec replay/EURUSD/2026/Success 5 (After Course)/10 Mars.md",
+    "journal/live avec replay/EURUSD/2026/Success 5 (After Course)/11 Mars.md",
+    "journal/live avec replay/EURUSD/2026/Success 5 (After Course)/05 Mars.md",
+    "journal/live avec replay/EURUSD/2026/Success 5 (After Course)/13 Mars.md",
+    "Assets/Attachments/Pasted image 20261107220647.png",
+    "Assets/Attachments/Pasted image 20261107220411.png",
+    "Assets/Attachments/Pasted image 20261107220324.png",
+    "journal/live avec replay/EURUSD/2026/Success 4 (After Course)/10 - 04 Mars.md",
+    "journal/live avec replay/EURUSD/2026/Success 4 (After Course)/06 - 26 Février.md",
+    "journal/live avec replay/EURUSD/2026/Success 4 (After Course)/05 - 25 Février.md",
+    "journal/live avec replay/EURUSD/2026/Success 4 (After Course)/07 - 27 Février.md",
+    "journal/live avec replay/EURUSD/2026/Success 4 (After Course)/08 - 02 Mars.md",
+    "journal/live avec replay/EURUSD/2026/Success 4 (After Course)/09 - 03 Mars.md",
+    "journal/live avec replay/EURUSD/2026/Success 5 (After Course)/12 Mars.md",
     "Excalidraw/Drawing 2026-08-30 12.48.36.excalidraw.md",
-    "Assets/Attachments/Pasted image 20261103100546.png",
-    "Assets/Attachments/Pasted image 20261103100109.png",
-    "journal/live avec replay/EURUSD/2026/Success 3 (After course)/40 - 13 analyse.md",
-    "Assets/Attachments/Pasted image 20261103095511.png",
+    "Assets/Attachments/Pasted image 20261107204356.png",
+    "Assets/Attachments/Pasted image 20261107204351.png",
+    "Assets/Attachments/Pasted image 20261107200954.png",
+    "journal/live avec replay/EURUSD/2026/Success 5 (After Course)/09 MARS.md",
+    "journal/live avec replay/EURUSD/2026/Success 5 (After Course)/06 Mars.md",
+    "journal/live avec replay/EURUSD/2026/Success 5 (After Course)/04 Mars.md",
+    "Assets/Attachments/Pasted image 20261107200311.png",
+    "Assets/Attachments/Pasted image 20261107185958.png",
+    "Assets/Attachments/Pasted image 20261107185007.png",
+    "journal/trades/AL trading/Trading Price Action Ranges/1st part/All.md",
+    "Assets/Attachments/Pasted image 20261107083807.png",
+    "journal/live avec replay/EURUSD/2026/Success 5 (After Course)/Tranding ranges.md",
     "journal/live avec replay/EURUSD/2026/Success 3 (After course)/concepts/TR.md",
-    "Assets/Attachments/Pasted image 20261103092705.png",
-    "Assets/Attachments/Pasted Image 20261103092615_068.png",
-    "Assets/Attachments/Pasted image 20261103092527.png",
-    "Assets/Attachments/Pasted image 20261103092510.png",
-    "journal/live avec replay/EURUSD/2026/Success 3 (After course)/39 - 12 analyse.md",
-    "Assets/Attachments/Pasted Image 20261103091945_893.png",
-    "Assets/Attachments/Pasted image 20261103091221.png",
-    "Assets/Attachments/Pasted image 20261103090636.png",
-    "journal/trades/AL trading/Trading Price Action Ranges/2nd part/All.md",
-    "journal/live avec replay/EURUSD/2026/Success 3 (After course)/38 - 11 analyse.md",
-    "journal/live avec replay/EURUSD/2026/Success 3 (After course)/28 - analyse.md",
-    "journal/live avec replay/EURUSD/2026/Success 3 (After course)/37 - 10 analyse.md",
-    "journal/live avec replay/EURUSD/2026/Success 3 (After course)/36 - 09 analyse.md",
-    "journal/live avec replay/EURUSD/2026/Success 3 (After course)/35 - 06 analyse.md",
-    "journal/live avec replay/EURUSD/2026/Success 3 (After course)/34 - 05 analyse.md",
-    "journal/live avec replay/EURUSD/2026/Success 3 (After course)/32 - 03 analyse.md",
-    "journal/live avec replay/EURUSD/2026/Success 3 (After course)/31 - 02 analyse.md",
-    "journal/live avec replay/EURUSD/2026/Success 3 (After course)/26- nouveau analyse.md",
-    "journal/live avec replay/EURUSD/2026/Success 3 (After course)/29 - analyse.md",
-    "journal/live avec replay/EURUSD/2026/Success 3 (After course)/30 - analyse.md",
-    "journal/live avec replay/EURUSD/2026/Success 3 (After course)/concepts/Board Channel.md",
-    "journal/live avec replay/EURUSD/2026/Success 3 (After course)/concepts/Spike Channel.md",
-    "journal/live avec replay/EURUSD/2026/Success 3 (After course)/27.md",
-    "journal/live avec replay/EURUSD/2026/Success 3 (After course)/concepts/Always In Long.md",
-    "journal/live avec replay/EURUSD/2026/Success 3 (After course)/concepts/Bar countering.md",
-    "journal/live avec replay/EURUSD/2026/Success 3 (After course)/09.md",
-    "journal/live avec replay/EURUSD/2026/Success 3 (After course)/05.md",
-    "journal/live avec replay/EURUSD/2026/Success 3 (After course)/33 - 04.md",
+    "journal/trades/AL trading/Trading Price Action Ranges/1st part/Trading Range.md",
+    "journal/live avec replay/EURUSD/2026/Success 4 (After Course)/0.1 Result.md",
+    "journal/live avec replay/EURUSD/2026/Success 3 (After course)/01 Resultat.md",
+    "journal/live avec replay/EURUSD/2026/Success 5 (After Course)",
+    "journal/live avec replay/EURUSD/2026/Success 4 (After Course)/04 - 24 Février.md",
+    "journal/live avec replay/EURUSD/2026/Success 4 (After Course)/03 - 23 Février.md",
+    "journal/live avec replay/EURUSD/2026/Success 4 (After Course)/02 - 20 Février.md",
+    "journal/live avec replay/EURUSD/2026/Success 4 (After Course)/01 - 19 Février.md",
+    "journal/live avec replay/EURUSD/2026/Success 4 (After Course)",
     "journal/live avec replay/EURUSD/2026/Success 3 (After course)/concepts/Sans titre",
     "journal/live avec replay/EURUSD/2026/Success 3 (After course)/concepts",
     "journal/live avec replay/EURUSD/2026/Success 3 (After course)",
@@ -270,8 +298,6 @@
     "journal/trades/AL trading/Trading Price Action Ranges/concepts",
     "journal/trades/AL trading/Trading Price Action Ranges/1st part",
     "journal/trades/AL trading/Trading Price Action Ranges/2nd part",
-    "journal/live avec replay/EURUSD/2026/Success 2/analyse",
-    "journal/live avec replay/EURUSD/2026/Success 2/realisation",
-    "journal/trades/AL trading/Sans titre/Sans titre"
+    "journal/live avec replay/EURUSD/2026/Success 2/analyse"
   ]
 }
