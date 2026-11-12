@@ -1,0 +1,10 @@
+views:
+  - type: table
+    name: Vue
+    filters:
+      and:
+        - file.inFolder("journal/live avec replay/EURUSD/2026/Success 6 (After Course)/Analyse trade perdant - opportunite")
+    order:
+      - file.name
+      - categorie
+    sort: []
