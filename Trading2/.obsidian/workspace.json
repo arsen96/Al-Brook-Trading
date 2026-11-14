@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "journal/live avec replay/EURUSD/2026/Success 7 (After Course)/03 - 13 Avril.md",
+                "file": "journal/live avec replay/EURUSD/2026/Success 8 (After Course)/Analyse par trade/08 - 04 Mai.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "03 - 13 Avril"
+              "title": "08 - 04 Mai"
             }
           },
           {
@@ -27,12 +27,26 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "journal/live avec replay/EURUSD/2026/Success 7 (After Course)/10 - 22 Avril.md",
+                "file": "journal/live avec replay/EURUSD/2026/Success 8 (After Course)/07 - 01 Mai.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "10 - 22 Avril"
+              "title": "07 - 01 Mai"
+            }
+          },
+          {
+            "id": "787677adb4e691d1",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "journal/live avec replay/EURUSD/2026/Success 8 (After Course)/08 - 04 Mai.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "08 - 04 Mai"
             }
           },
           {
@@ -41,16 +55,15 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "journal/live avec replay/EURUSD/2026/Success 7 (After Course)/Analyse trade perdant/01 - TR.md",
+                "file": "journal/live avec replay/EURUSD/2026/Success 8 (After Course)/06 - 30 Avril.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "01 - TR"
+              "title": "06 - 30 Avril"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -226,53 +239,53 @@
       "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "bf4fd5db255b6b2c",
+  "active": "cd5829f274a0cab8",
   "lastOpenFiles": [
+    "Assets/Attachments/Pasted image 20261114111137.png",
+    "journal/live avec replay/EURUSD/2026/Success 8 (After Course)/08 - 04 Mai.md",
+    "Assets/Attachments/Pasted image 20261114111127.png",
+    "Assets/Attachments/Pasted image 20261114111121.png",
+    "Excalidraw/Drawing 2026-08-30 12.48.36.excalidraw.md",
+    "journal/live avec replay/EURUSD/2026/Success 8 (After Course)/Analyse par trade/01 - 23 Avril.md",
+    "journal/live avec replay/EURUSD/2026/Success 8 (After Course)/Analyse par trade/07 - 01 Mai.md",
+    "journal/live avec replay/EURUSD/2026/Success 8 (After Course)/07 - 01 Mai.md",
+    "Assets/Attachments/Pasted image 20261114110536.png",
+    "Assets/Attachments/Pasted image 20261114110527.png",
+    "Assets/Attachments/Pasted image 20261114110504.png",
+    "journal/live avec replay/EURUSD/2026/Success 8 (After Course)/06 - 30 Avril.md",
+    "journal/live avec replay/EURUSD/2026/Success 8 (After Course)/05 - 29 Avril.md",
+    "journal/live avec replay/EURUSD/2026/Success 8 (After Course)/04 - 28 Avril.md",
+    "journal/live avec replay/EURUSD/2026/Success 8 (After Course)/03 - 27 Avril.md",
+    "journal/live avec replay/EURUSD/2026/Success 8 (After Course)/Analyse par trade/03 - 27 Avril.md",
+    "Assets/Attachments/Pasted image 20261114084819.png",
+    "journal/live avec replay/EURUSD/2026/Success 8 (After Course)/02 - 24 Avril.md",
+    "Assets/Attachments/Pasted image 20261114084756.png",
+    "journal/live avec replay/EURUSD/2026/Success 8 (After Course)/Analyse par trade/04 - 28 Avril.md",
+    "Assets/Attachments/Pasted image 20261114083550.png",
+    "journal/live avec replay/EURUSD/2026/Success 8 (After Course)/01 - 23 Avril.md",
+    "Assets/Attachments/Pasted image 20261114083309.png",
+    "journal/live avec replay/EURUSD/2026/Success 8 (After Course)/Analyse par trade/02 - 24 Avril.md",
+    "Assets/Attachments/Pasted image 20261114083247.png",
+    "journal/live avec replay/EURUSD/2026/Success 8 (After Course)/Analyse par trade/0.01 TR.md",
+    "journal/live avec replay/EURUSD/2026/Success 8 (After Course)/Analyse par trade/08 - 04 Mai.md",
+    "journal/live avec replay/EURUSD/2026/Success 8 (After Course)/Analyse par trade/06 - 30 Avril.md",
+    "journal/live avec replay/EURUSD/2026/Success 7 (After Course)/Analyse trade perdant/01 - TR.md",
+    "journal/live avec replay/EURUSD/2026/Success 8 (After Course)/Analyse par trade",
+    "journal/live avec replay/EURUSD/2026/Success 7 (After Course)/03 - 13 Avril.md",
+    "journal/live avec replay/EURUSD/2026/Success 7 (After Course)/10 - 22 Avril.md",
+    "journal/live avec replay/EURUSD/2026/Success 7 (After Course)/01 - 09 Avril.md",
+    "journal/live avec replay/EURUSD/2026/Success 8 (After Course)",
     "journal/live avec replay/EURUSD/2026/Success 7 (After Course)/09 - 21 Avril.md",
     "journal/live avec replay/EURUSD/2026/Success 7 (After Course)/08 - 20 Aril.md",
     "journal/live avec replay/EURUSD/2026/Success 7 (After Course)/07 - 17 Avril.md",
     "journal/live avec replay/EURUSD/2026/Success 7 (After Course)/06 - 16 Avril.md",
-    "journal/live avec replay/EURUSD/2026/Success 7 (After Course)/05 - 15 Avril.md",
-    "journal/live avec replay/EURUSD/2026/Success 7 (After Course)/Analyse trade perdant/01 - TR.md",
-    "Assets/Attachments/Pasted image 20261112110437.png",
-    "Excalidraw/Drawing 2026-08-30 12.48.36.excalidraw.md",
-    "journal/live avec replay/EURUSD/2026/Success 7 (After Course)/Analyse trade perdant/04 - 14 Avril.md",
-    "Assets/Attachments/Pasted image 20261112110051.png",
-    "Assets/Attachments/Pasted image 20261112105852.png",
-    "journal/live avec replay/EURUSD/2026/Success 6 (After Course)/01 - 17 Mars.md",
-    "journal/live avec replay/EURUSD/2026/Success 6 (After Course)/0.01 Trading ranges.md",
-    "Assets/Attachments/Pasted image 20261112105833.png",
-    "journal/live avec replay/EURUSD/2026/Success 7 (After Course)/04 - 14 Avril.md",
-    "journal/live avec replay/EURUSD/2026/Success 7 (After Course)/Analyse trade perdant/03 - 13 Avril.md",
-    "journal/live avec replay/EURUSD/2026/Success 7 (After Course)/03 - 13 Avril.md",
-    "Assets/Attachments/Pasted image 20261112104827.png",
-    "Assets/Attachments/Pasted image 20261112104813.png",
-    "Assets/Attachments/Pasted image 20261112104807.png",
-    "journal/live avec replay/EURUSD/2026/Success 7 (After Course)/02 - 10 Avril.md",
-    "journal/live avec replay/EURUSD/2026/Success 7 (After Course)/Analyse trade perdant/02 - 10 Avril.md",
-    "Assets/Attachments/Pasted image 20261112104325.png",
-    "journal/live avec replay/EURUSD/2026/Success 7 (After Course)/10 - 22 Avril.md",
-    "journal/live avec replay/EURUSD/2026/Success 7 (After Course)/01 - 09 Avril.md",
-    "Assets/Attachments/Pasted image 20261112103432.png",
-    "journal/live avec replay/EURUSD/2026/Success 7 (After Course)/0.1 Result.md",
-    "journal/live avec replay/EURUSD/2026/Success 6 (After Course)/0.1 Result - Difficile.md",
-    "journal/live avec replay/EURUSD/2026/Success 5 (After Course)/0.1 Result.md",
-    "journal/live avec replay/EURUSD/2026/Success 4 (After Course)/0.1 Result.md",
-    "journal/live avec replay/EURUSD/2026/Success 3 (After course)/01 Resultat.md",
-    "Assets/Attachments/Pasted image 20261112093730.png",
-    "journal/live avec replay/EURUSD/2026/Success 7 (After Course)/Analyse trade perdant/10 - 22 Avril.md",
-    "journal/live avec replay/EURUSD/2026/Success 7 (After Course)/Analyse trade perdant/09 -21 Avril.md",
-    "journal/live avec replay/EURUSD/2026/Success 7 (After Course)/Analyse trade perdant/08 - 20 Avril.md",
     "journal/live avec replay/EURUSD/2026/Success 7 (After Course)/Sans titre",
-    "journal/live avec replay/EURUSD/2026/Success 7 (After Course)/Analyse trade perdant/06 - 16 Avril.md",
     "journal/live avec replay/EURUSD/2026/Success 7 (After Course)/Analyse trade perdant",
     "journal/live avec replay/EURUSD/2026/Success 7 (After Course)",
     "journal/live avec replay/EURUSD/2026/Success 6 (After Course)/Analyse trade perdant - opportunite/0.1 - Intro.base",
     "journal/live avec replay/EURUSD/2026/Success 6 (After Course)/Sans titre.base",
     "journal/live avec replay/EURUSD/2026/Success 6 (After Course)/Analyse trade perdant - opportunite",
     "journal/live avec replay/EURUSD/2026/Success 6 (After Course)",
-    "journal/live avec replay/EURUSD/2026/Success 5 (After Course)/1",
-    "journal/live avec replay/EURUSD/2026/Success 5 (After Course)",
-    "journal/live avec replay/EURUSD/2026/Success 4 (After Course)"
+    "journal/live avec replay/EURUSD/2026/Success 5 (After Course)/1"
   ]
 }
